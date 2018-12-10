@@ -1,0 +1,2 @@
+ Return and n multiplied by n plus 1 divided by 2. 
+

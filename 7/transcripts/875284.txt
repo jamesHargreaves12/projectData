@@ -1,0 +1,2 @@
+ Result. Equal true for I equal to one i smaller than n divided by two. i Plus plus open parentheses result and equal. Remainder N i different than Zero close parenthesis return result.  
+

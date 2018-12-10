@@ -1,0 +1,1 @@
+Take the meal price and multiply it by one point two get the meal price with tax multiply meal price with tax by one point one to get the final price and return the final price.

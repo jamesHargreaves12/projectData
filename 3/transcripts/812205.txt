@@ -1,0 +1,1 @@
+Initialize total rainfall to zero. for I in the range 0 to eleven inclusive increment total rainfall by the value at index i in the months rainfall return Total rainfall

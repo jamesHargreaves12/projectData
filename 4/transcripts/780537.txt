@@ -1,0 +1,1 @@
+Create A variable name title is set equal to nought next. For all X in shopping list. Look up X in item cost map and store this in a variable named cost add total and cost together and store that in total. end the loop.

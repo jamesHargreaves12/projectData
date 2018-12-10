@@ -1,0 +1,1 @@
+ a Equals one b equals one count equals two. while Count is less than n temp equals b b equals A plus B a equals temp. end loop return B. 

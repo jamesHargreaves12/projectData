@@ -1,0 +1,1 @@
+Create a variable total equal to zero. And for rainfall in months rainfall. Open parentheses total plus equal rainfall close parentheses and then return total.

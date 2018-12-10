@@ -1,0 +1,2 @@
+ For I. In the range 0 to the length of number list minus one inclusive. Set the value at index. I in number list to the value. At index I in number list multiplied by. Coefficient. Return. number list.  
+

@@ -1,0 +1,2 @@
+ Integer temp equals number list. Square bracket. I close square bracket. number list. Square bracket I close swear bracket equals number list. Square bracket. J close square bracket number list. Square bracket. J close square bracket equals temp. Return number list.  
+

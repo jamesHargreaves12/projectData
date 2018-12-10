@@ -1,0 +1,2 @@
+ if n is equal to nought return one otherwise recursively calculate the factorial of n minus one multiply this by n and then return that.  
+

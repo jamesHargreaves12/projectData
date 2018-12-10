@@ -1,0 +1,2 @@
+ the Variable len equal the length of number list and let I equals zero while i is less than Len. number list position I is equal to number list position I multiplied by coefficient.  
+

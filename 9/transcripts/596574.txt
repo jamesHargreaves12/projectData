@@ -1,0 +1,2 @@
+set accumulator is equal 1 for x in the range 1 to n inclusive accumulator equals x times accumulator end for and return accumulator.  
+

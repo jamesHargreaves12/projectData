@@ -1,0 +1,2 @@
+ Result equal true. For I equal zero. i Smaller than length input string. Divided by two i plus plus. open Parentheses. if Input string index i. Is different than input string index length input string minus. I. then Result. Equal false break. Close parentheses return result.  
+

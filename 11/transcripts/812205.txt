@@ -1,0 +1,2 @@
+ for index in the range 0 to. The length. Of. Input string integer divided by 2. If. The character. At. Index. In input string is not equal to. The character. at index length. Of the input string minus one minus index. Return false. end for loop. Return true.  
+

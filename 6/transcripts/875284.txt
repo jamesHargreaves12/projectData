@@ -1,0 +1,1 @@
+For Integer i equals zero. i Smaller than twenty one i plus plus. If I percent three. Equals equals zero and I percent five equals equals zero. then Print fizz buzz else if I percent three equals equals zero. Then print fizz. Else if I percent five equal equals zero then print buzz. Else print I close parenthesis.

@@ -1,0 +1,2 @@
+ Initialize count to 1 for I in the range one to n inclusive. set Count to count multiplied. By. I. end For loop. Return. Count.  
+

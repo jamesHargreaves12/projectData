@@ -1,0 +1,2 @@
+ For Integer i equal to zero. i Smaller than length. number list. i Plus plus number list. Index i equals number list. Index I. Times by coefficient. Close parentheses return. number list.  
+

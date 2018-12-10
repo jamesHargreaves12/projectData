@@ -1,0 +1,2 @@
+ Set a variable temp to the value in number list at in this I. set The value number list at index i to the value in number list at index J set the value in number list at index J to temp return. number list.  
+

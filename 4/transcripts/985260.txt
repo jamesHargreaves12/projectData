@@ -1,0 +1,1 @@
+For item in shopping list total equals item cost map. Dot get open bracket item close bracket end for return total.

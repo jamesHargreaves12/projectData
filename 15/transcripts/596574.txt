@@ -1,0 +1,2 @@
+ for I in the range 0 to the length of the number list minus 1 inclusive number list index i is set to number list index i times the threshold end the for loop. Return the number list.  
+

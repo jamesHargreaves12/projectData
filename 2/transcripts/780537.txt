@@ -1,0 +1,1 @@
+set highest to be equal to 0 while list not empty first term is head of list if first term is larger than highest then set highest to be equal to the first term end loop then return highest

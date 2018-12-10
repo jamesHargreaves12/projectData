@@ -1,0 +1,2 @@
+ Initialize count to 0 for i in the range 1 to n inclusive increment Count. By. I. Return. Count.  
+
