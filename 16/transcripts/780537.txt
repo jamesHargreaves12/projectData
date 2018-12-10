@@ -1,0 +1,2 @@
+ define a Variable named result in set this equal to the empty list. And then for each element of number list. If. That element is greater than the threshold. Then cons the element on to the front of. Result  end if end The loop and return result.  
+
