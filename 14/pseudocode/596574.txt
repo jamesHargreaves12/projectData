@@ -1,0 +1,22 @@
+len = length(input_list);
+if len == 0 or len == 1{
+	return input_list;
+}
+else{
+	sorted_left = mergesort(input_list[0:len/2]);
+	sorted_right = mergesort(input_list[len/2+1:len]);
+	left_pointer = 0;
+	right_pointer = 0;
+	merged = [];
+	while left_pointer < length(sorted_left) or right_pointer < length(sorted_right){
+		if right_pointer >= length(sorted(right)) or left_pointer < length(sorted_left) and sorted_left[left_pointer] <= sorted_right[right_pointer]{
+			append(sorted_left[left_pointer], merged);
+			left_pointer = left_pointer + 1;
+		}
+		else{
+			append(sorted_right[right_pointer],merged);
+			right_pointer = right_pointer + 1;
+		}
+	}
+}
+return merged;

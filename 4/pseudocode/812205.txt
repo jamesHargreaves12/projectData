@@ -1,0 +1,7 @@
+total_price = 0;
+for item in shopping_list {
+	total_price += item_cost_map[item];
+}
+return total_price;
+
+

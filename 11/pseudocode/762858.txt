@@ -1,0 +1,9 @@
+result = True;
+for i = 0; i < length(input_string)/2; i ++; {
+	if input_string[i] != input_string[length(input_string)-i] {
+		result = false;
+		break;
+	}
+}
+return result;
+

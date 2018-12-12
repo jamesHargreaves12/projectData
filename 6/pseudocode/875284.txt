@@ -1,0 +1,16 @@
+for i = 0; i < 21; i ++; {
+	if i % 3 == 0 and i % 5 == 0{
+		print("fizz buzz");
+	}
+	else_if i % 3 == 0 {
+		print("fizz");
+	}
+	else_if i % 5 == 0 {
+		print("buzz");
+	}
+	else{
+		print(i);
+	}
+}
+
+

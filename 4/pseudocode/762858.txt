@@ -1,0 +1,9 @@
+len = length(shopping_list);
+i = 0;
+total = 0;
+while i < len {
+	item = shopping_list[i];
+	total = total + item_cost_map[item];
+}
+
+

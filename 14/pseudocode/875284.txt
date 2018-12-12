@@ -1,0 +1,6 @@
+if length(input_list) == 1{
+	return input_list;
+}
+else{
+	mergesort(input_list[0:length(input_list)/2]);
+}

@@ -1,0 +1,7 @@
+new_list = [];
+for item in number_list{
+	if item > threshold{
+		append(item, new_list);
+	}
+}
+return new_list;

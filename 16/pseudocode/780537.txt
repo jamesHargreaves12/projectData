@@ -1,0 +1,7 @@
+result = [];
+for element in number_list{
+	if element > threshold{
+		cons(element,result);
+	}
+}
+return result;

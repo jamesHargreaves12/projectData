@@ -1,0 +1,19 @@
+if length(input_list) <= 1{
+	return input_list;
+}
+pivot = input_list[0];
+less_than_list = [];
+more_than_list = [];
+for item in input_list{
+	if item > piviot{
+		more_than_list.append(item);
+	}
+	else{
+		less_than_list.append(item);
+	}
+}
+recurse(less_than_list);
+rescurse(more_than_list);
+return compose(less_than_list, more_than_list);
+
+

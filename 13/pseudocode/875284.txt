@@ -1,0 +1,11 @@
+for i = 0; i < length(input_list); i ++;{
+	for j = 0; j < length(input_list); j ++; {
+		if input_list[j] < input_list[j+1]{
+			continue;
+		}
+		else{
+			swap(input_list[j], input_list[j+1]);
+		}
+	}
+}
+

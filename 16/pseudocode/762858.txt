@@ -1,0 +1,6 @@
+new_list = [];
+for item in number_list{
+	if item > threshold{
+		add(item, new_list);
+	}
+}

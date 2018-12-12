@@ -1,2 +1,2 @@
- define length to be equal to the length of for the input string for each i between nought and length if the input string at index i is not equal to the input string at index at length minus i then return false. end if end loop and next return true.  
+ define length to be equal to the length of the input string for each i between nought and length if the input string at index i is not equal to the input string at index at length minus i then return false. end if end loop and next return true.  
 

@@ -1,0 +1,8 @@
+highest = 0;
+for x in number_list{
+	highest=max(highest,x);
+}
+return highest;
+
+
+

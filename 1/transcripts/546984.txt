@@ -1,0 +1,2 @@
+ Let variable with tax equal one point two times meal price variable with Tip equal one point one times with tax return with Tip.  
+

@@ -1,0 +1,16 @@
+if n == 1 {
+	return false;
+}
+else_if	n == 2{
+	return true;
+}
+else{
+	for d=2; d < square_root(n); d +=1;{
+		if remainder(n,d) == 0{
+			return false;
+		}
+	}
+	return true;
+}
+
+

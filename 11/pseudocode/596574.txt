@@ -1,0 +1,8 @@
+len_string = length(input_string);
+for i in range(0,len_string/2){
+	if input_string[i] != input_string[len_string - 1 - i]{
+		return False;
+	}
+}
+return True;
+

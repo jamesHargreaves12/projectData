@@ -1,0 +1,7 @@
+answer = [];
+for number in number_list{
+	if number > threshold{
+		append(number,answer);
+	}
+}
+return answer;

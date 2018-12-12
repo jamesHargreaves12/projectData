@@ -1,0 +1,17 @@
+len = length(list);
+sorted_first = recurse(list.first_half());
+sorted_second = recurse(list.second_half());
+j = 0;
+k = 0;
+result = list(len);
+for i in range(0,len){
+	if sorted_first[j] < sorted_seccond[k]{
+		result[i] = sorted_first[j];
+		j += 1;
+	}
+	else{
+		result[i] = sorted_second[k];
+		j += 1;
+	}
+}
+return result;

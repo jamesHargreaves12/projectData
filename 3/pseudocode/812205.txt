@@ -1,0 +1,7 @@
+total_rainfall = 0;
+for i in range(0,11) {
+	total_rainfall += months_rainfall[i];
+}
+return total_rainfall;
+
+

@@ -1,0 +1,7 @@
+for i = 0; i < (input_string.length()-1)/2; i ++; {
+	if input_string[i] != input_string[input_string.length()-i]{
+		return False;	
+	}
+}
+return True;
+

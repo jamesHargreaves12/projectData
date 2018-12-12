@@ -1,0 +1,5 @@
+new_list = [];
+for item in number_list{
+	new_list.append(item * coefficient);
+}
+return new_list;

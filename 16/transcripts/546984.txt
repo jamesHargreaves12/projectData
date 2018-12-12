@@ -1,0 +1,2 @@
+let to return be an empty list for each item X in number list if X is bigger than threshold append x to to return end if end for return to return.  
+

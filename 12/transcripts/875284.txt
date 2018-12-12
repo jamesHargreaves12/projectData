@@ -1,2 +1,2 @@
- Temp is equal to no list index. I. number list. Index I equal number list. Index. J. number list. Index. J is equal to number list. Index temp. Return. number list.  
+ Temp is equal to number list index. I. number list. Index I equal number list. Index. J. number list. Index. J is equal to number list. Index temp. Return. number list.  
 

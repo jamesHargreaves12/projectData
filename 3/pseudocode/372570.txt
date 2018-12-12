@@ -1,0 +1,7 @@
+total = 0;
+for day in months_rainfall{
+	total = total + day;
+}
+return total;
+
+

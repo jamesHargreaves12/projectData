@@ -1,0 +1,5 @@
+len = length(number_list);
+i = 0;
+while i < len{
+	number_list[i] = number_list[i] * coefficient;
+}

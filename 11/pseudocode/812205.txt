@@ -1,0 +1,7 @@
+for index in range(0,length(input_string)/2){
+	if input_string[index] != input_string[length(input_string)-1-index]{
+		return False;
+	}
+}
+return True;
+

@@ -1,2 +1,3 @@
- Let root n equal the floor of The square root of n i equals two. Well I is less than root n do if remaineder n i is equal to zero do return false end i is equal to I plus one end return true. 
+ Let root n equal the floor of The square root of n i equals two. While I is less than root n do if remainder n i is equal to zero do return false end if i is equal to I plus one end return true. 
+
 

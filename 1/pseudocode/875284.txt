@@ -1,0 +1,8 @@
+meal_price += meal_price * tax / 100;
+meal_price += meal_price * 2 / 100;
+return meal_price;
+
+
+
+
+

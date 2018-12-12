@@ -1,0 +1,14 @@
+for n = 1; n <= 20; n += 1; {
+	if mod(n,3) != 0 and mod(n,5) != 0 {
+		print(n);
+	}
+	else_if mod(n,3) == 0 {
+		print("fizz");	
+	}
+	if mod(n,5) == 0 {
+		print("buzz");
+	}
+	print("\n");
+}
+
+

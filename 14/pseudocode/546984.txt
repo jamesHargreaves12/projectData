@@ -1,0 +1,24 @@
+if length(input_list) == 0 or length(input_list) == 1{
+	return input_list;
+}
+else{
+	halfway = length(input_list)/2;
+	l_1 = merge_sort(input_list[0:halfway]);
+	l_2 = merge_sort(input_list[halfway:-1]);
+	i = 0;
+	j = 0;
+	l_3 = [];
+	while i + j < length(input_list){
+		item_1 = l_1[i];
+		item_2 = l_2[j];
+		if item_1 <= item_2{
+			l_3[i+j] = item_1;
+			i += 1;
+		}
+		else{
+			l_3[i+j] = item_2;
+			j += 1;
+		}
+	}
+	return l_3;
+}

@@ -1,0 +1,8 @@
+accumulator = 0;
+while n > 0{
+	accumulator += 1;
+	n -= 1;
+}
+return accumulator;
+
+

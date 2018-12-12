@@ -1,0 +1,10 @@
+highest = 0;
+while list.not_empty(){
+	first_term = head(list);
+	if first_term > highest{
+		highest = first_term;
+	}
+}
+return highest;
+
+

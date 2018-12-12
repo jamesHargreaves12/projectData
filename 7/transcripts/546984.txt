@@ -1,0 +1,2 @@
+ if N equals 1. Then return false. Otherwise if N equals 2 return true. Otherwise for d equals 2 up to the square root of n incrementing D each time. Do the following if the remainder of n with d equals zero then return false.end If end for comment the for loop there are no factors up to root n and so we can return true end comment. Return true.  
+

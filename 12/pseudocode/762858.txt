@@ -1,0 +1,4 @@
+temp = number_list[i];
+number_list[i] = number_list[j];
+number_list[j] = temp;
+
