@@ -1,3 +1,3 @@
- for Integer i equals naught to number list dot length minus 1 number list. Open square bracket. I close square bracket equals number list. Open square bracket. I close square bracket multiplied by coefficient end for return number list.  
+ for Integer i equals 0 to number list dot length minus 1 number list. Open square bracket. I close square bracket equals number list. Open square bracket. I close square bracket multiplied by coefficient end for return number list.  
 
 

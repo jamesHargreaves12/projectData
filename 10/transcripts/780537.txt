@@ -1,2 +1,2 @@
- Create a variable called Total set equal to nought and for all x between 1 and n add total and X and store that result in total end the loop return total.  
+ Create a variable called Total set equal to 0 and for all x between 1 and n add total and X and store that result in total end the loop return total.  
 

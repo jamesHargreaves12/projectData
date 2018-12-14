@@ -1,2 +1,2 @@
- for integer I equals nought To open brackets. Input string dot length minus 1. Close Brackets over 2 if input string. Square bracket I. Close square bracket. Not equal to input string open bracket input string dot length minus i close bracket. Return false end if end for return true.  
+ for integer I equals 0 To open brackets. Input string dot length minus 1. Close Brackets over 2 if input string. Square bracket I. Close square bracket. Not equal to input string open bracket input string dot length minus i close bracket. Return false end if end for return true.  
 
