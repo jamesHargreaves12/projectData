@@ -1,2 +1,2 @@
- Let variable with tax equal 1.2 times meal price variable with Tip equal 1.1 times with tax return with Tip.  
+ let variable with tax equal 1.2 times meal price variable with tip equal 1.1 times with tax return with tip  
 

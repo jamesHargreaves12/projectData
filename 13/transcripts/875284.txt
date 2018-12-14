@@ -1,2 +1,2 @@
- For integer i equals zero i smaller than length input list i plus plus open parentheses for integer. J equals zero J smaller than length input list J plus plus if input list. Index. J. Is smaller than input list index j plus 1. Then do nothing else. Swap. Input list. Index. j input List. Index j plus 1. 
+ for integer i equals zero i smaller than length input list i plus plus open parentheses for integer j equals zero j smaller than length input list j plus plus if input list index j is smaller than input list index j plus 1 then do nothing else swap input list index j input list index j plus 1 
 

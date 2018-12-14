@@ -1,1 +1,1 @@
-set highest to zero while list not empty start loop block if first item of list greater than highest start a new block and set highest to the first item on the list end that block removed the first item from the list end the loop block.
+set highest to zero while list not empty start loop block if first item of list greater than highest start a new block and set highest to the first item on the list end that block removed the first item from the list end the loop block

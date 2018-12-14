@@ -1,1 +1,1 @@
-Take the meal price and multiply it by 1.2 get the meal price with tax multiply meal price with tax by 1.1 to get the final price and return the final price.
+take the meal price and multiply it by 1.2 get the meal price with tax multiply meal price with tax by 1.1 to get the final price and return the final price

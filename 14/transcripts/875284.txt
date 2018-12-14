@@ -1,2 +1,2 @@
- If length input list is equal to 1. Return input list else mergeSort. input list from index 0 to length Input list divided by 2.  
+ if length input list is equal to 1 return input list else mergesort input list from index 0 to length input list divided by 2  
 

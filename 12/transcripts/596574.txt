@@ -1,2 +1,2 @@
- temp Equals number list at index I number list at Index i is set to number list index J. number list list at index j is set to temp.  
+ temp equals number list at index i number list at index i is set to number list index j number list list at index j is set to temp  
 

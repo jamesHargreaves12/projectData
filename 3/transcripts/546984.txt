@@ -1,1 +1,1 @@
-Return. Reduce. Month rainfall. Using the plus function.
+return reduce month rainfall using the plus function

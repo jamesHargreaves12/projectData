@@ -1,2 +1,2 @@
- Let a new variable temp equal to number list position. I let number list position. I equal to number list position. J and Let number list position. J. Equal to temp.  
+ let a new variable temp equal to number list position i let number list position i equal to number list position j and let number list position j equal to temp  
 

@@ -1,2 +1,2 @@
- Initialize a new empty list. Return values. for Each integer I in number list. If. I. Is greater than threshold. append I to return values. end for loop. Return. Return values.  
+ initialize a new empty list return values for each integer i in number list if i is greater than threshold append i to return values end for loop return return values  
 

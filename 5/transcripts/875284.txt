@@ -1,1 +1,1 @@
-For Integer i equals zero I smaller than twenty 1 i plus plus open parentheses print i backslash n close parentheses.
+for integer i equals zero i smaller than 21 i plus plus open parentheses print i backslash n close parentheses

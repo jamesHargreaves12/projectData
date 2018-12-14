@@ -1,1 +1,1 @@
-meal Price equals meal price multiplied by 1.2. Then meal price equals meal price multiplied by 1.1 then return meal price
+meal price equals meal price multiplied by 1.2 then meal price equals meal price multiplied by 1.1 then return meal price

@@ -1,2 +1,2 @@
- Create a new list which is empty and for each item in the number list. Multiply the item by the coefficient and append it to this new list end the for loop and return this new list.  
+ create a new list which is empty and for each item in the number list multiply the item by the coefficient and append it to this new list end the for loop and return this new list  
 

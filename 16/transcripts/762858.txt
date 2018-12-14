@@ -1,2 +1,2 @@
-Initialize an empty list called new list for each item in number list. If item is greater than threshold. Add item to new list. 
+initialize an empty list called new list for each item in number list if item is greater than threshold add item to new list 
 

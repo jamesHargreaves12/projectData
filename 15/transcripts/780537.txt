@@ -1,2 +1,2 @@
- Define a variable called result and set that equal to the empty list next for each X in number list. Multiply x by coefficient and cons this on. To the variable result. end the loop and return result.  
+ define a variable called result and set that equal to the empty list next for each x in number list multiply x by coefficient and cons this on to the variable result end the loop and return result  
 

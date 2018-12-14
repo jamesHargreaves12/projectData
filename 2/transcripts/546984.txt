@@ -1,2 +1,2 @@
- let Highest equals zero for item X in number list set highest to the max of highest and X end for return highest.  
+ let highest equals zero for item x in number list set highest to the max of highest and x end for return highest  
 

@@ -1,2 +1,2 @@
- for I in the range 1 to square root of n inclusive if remaineder i n is zero then return False end for loop return True. 
+ for i in the range 1 to square root of n inclusive if remaineder i n is zero then return false end for loop return true 
 

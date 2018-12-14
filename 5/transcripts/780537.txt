@@ -1,1 +1,1 @@
-for each I between 1 and 20 PRINT I and end the loop.
+for each i between 1 and 20 print i and end the loop

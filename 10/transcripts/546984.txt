@@ -1,2 +1,2 @@
- let Variable accumulator equal zero. while N is bigger than zero. add N to the accumulator then subtract 1 from n end while return accumulator.  
+ let variable accumulator equal zero while n is bigger than zero add n to the accumulator then subtract 1 from n end while return accumulator  
 

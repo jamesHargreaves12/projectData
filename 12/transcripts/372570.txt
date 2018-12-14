@@ -1,2 +1,2 @@
- let temp equal the number list index i let the number list index i equal to the number list index J. let the number List index J. Equal to temp return the number list.  
+ let temp equal the number list index i let the number list index i equal to the number list index j let the number list index j equal to temp return the number list  
 

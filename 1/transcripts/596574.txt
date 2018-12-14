@@ -1,1 +1,1 @@
-Tax equals meal price times 0.2 tip equals meal price plus tax times 0.1 and then return meal price plus tax plus tip.
+tax equals meal price times 0.2 tip equals meal price plus tax times 0.1 and then return meal price plus tax plus tip

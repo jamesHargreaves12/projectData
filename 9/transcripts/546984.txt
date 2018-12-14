@@ -1,2 +1,2 @@
- If n equals zero then return 1. Otherwise return n times factorial of n minus 1. end if.  
+ if n equals zero then return 1 otherwise return n times factorial of n minus 1 end if  
 

@@ -1,2 +1,2 @@
- Let new list be an empty list for each item in number list. If the item is greater than the threshold append item to new list. end if end the for loop and return new list.  
+ let new list be an empty list for each item in number list if the item is greater than the threshold append item to new list end if end the for loop and return new list  
 

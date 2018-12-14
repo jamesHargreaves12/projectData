@@ -1,2 +1,2 @@
-answer is set to empty list for each number in the number list. if Number is greater than the threshold append number on. To answer end for and return. answer.  
+answer is set to empty list for each number in the number list if number is greater than the threshold append number on to answer end for and return answer  
 

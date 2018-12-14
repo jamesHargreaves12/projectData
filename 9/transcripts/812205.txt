@@ -1,2 +1,2 @@
- Initialize count to 1 for I in the range 1 to n inclusive. set Count to count multiplied. By. I. end For loop. Return. Count.  
+ initialize count to 1 for i in the range 1 to n inclusive set count to count multiplied by i end for loop return count  
 

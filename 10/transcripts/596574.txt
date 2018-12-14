@@ -1,1 +1,1 @@
-Return. n times n plus 1 over 2.
+return n times n plus 1 over 2

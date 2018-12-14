@@ -1,1 +1,1 @@
-Initialize total price to zero for each item in the shopping list. Increment total price by the value obtained from looking up item in item cost map return. Total price.
+initialize total price to zero for each item in the shopping list increment total price by the value obtained from looking up item in item cost map return total price
