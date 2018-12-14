@@ -3,10 +3,3 @@ for item in months_rainfall {
 	annual_rainfall += item;
 }
 return annual_rainfall;
-
-
-
-
-
-
-

@@ -1,2 +1,2 @@
- for integer i equal to zero i smaller than length number list i plus plus number list index i equals number list index i times by coefficient close parentheses return number list  
+ for integer i equal to 0 i smaller than length number list i plus plus number list index i equals number list index i times by coefficient close parentheses return number list  
 

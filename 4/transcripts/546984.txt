@@ -1,2 +1,2 @@
- let's accumulator equal zero for item x in shopping list add item cost map of x to accumulator end for return the accumulator  
+ let's accumulator equal 0 for item x in shopping list add item cost map of x to accumulator end for return the accumulator  
 

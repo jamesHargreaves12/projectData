@@ -3,10 +3,3 @@ for month in months_rainfall{
 	total = total + month;
 }
 return result;
-
-
-
-
-
-
-

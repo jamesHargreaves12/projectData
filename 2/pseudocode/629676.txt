@@ -5,11 +5,3 @@ while list.non_empty(){
 	}
 	remove_first_item(list);
 }
-
-
-
-
-
-
-
-

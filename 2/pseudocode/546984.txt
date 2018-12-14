@@ -3,12 +3,3 @@ for x in number_list{
 	highest=max(highest,x);
 }
 return highest;
-
-
-
-
-
-
-
-
-

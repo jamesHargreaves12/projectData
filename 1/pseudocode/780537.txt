@@ -1,14 +1,2 @@
 taxed_meal_price = meal_price * 1.2;
 return taxed_meal_price * 1.1;
-
-
-
-
-
-
-
-
-
-
-
-

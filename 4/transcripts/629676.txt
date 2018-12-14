@@ -1,1 +1,1 @@
-set total price to zero
+set total price to 0

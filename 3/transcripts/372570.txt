@@ -1,1 +1,1 @@
-total equals zero then do a for loop each day in months rainfall total is equal to total plus day end for loop and return the total
+total equals 0 then do a for loop each day in months rainfall total is equal to total plus day end for loop and return the total

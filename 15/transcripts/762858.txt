@@ -1,2 +1,2 @@
- the variable len equal the length of number list and let i equals zero while i is less than len number list position i is equal to number list position i multiplied by coefficient  
+ the variable len equal the length of number list and let i equals 0 while i is less than len number list position i is equal to number list position i multiplied by coefficient  
 

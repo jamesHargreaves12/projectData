@@ -1,1 +1,1 @@
-for integer i equals zero i smaller than 21 i plus plus if i percent 3 equals equals zero and i percent 5 equals equals zero then print fizz buzz else if i percent 3 equals equals zero then print fizz else if i percent 5 equal equals zero then print buzz else print i close parenthesis
+for integer i equals 0 i smaller than 21 i plus plus if i percent 3 equals equals 0 and i percent 5 equals equals 0 then print fizz buzz else if i percent 3 equals equals 0 then print fizz else if i percent 5 equal equals 0 then print buzz else print i close parenthesis

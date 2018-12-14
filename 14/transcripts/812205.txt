@@ -1,2 +1,2 @@
- if the length of input list is 0 or 1 return input list else divide input list into 2 equal length halves recursively sort each half using the merge source algorithm merge the two sorted halves and return this merged list  
+ if the length of input list is 0 or 1 return input list else divide input list into 2 equal length halves recursively sort each half using the merge source algorithm merge the 2 sorted halves and return this merged list  
 

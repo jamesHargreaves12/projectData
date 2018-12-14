@@ -1,1 +1,1 @@
-len is equal to the length of the shopping list i is equal to zero and total is equal to zero while i is less than len item is equal to the shopping list indexed at i and total is equal to total plus the value given by item cost map with key item
+len is equal to the length of the shopping list i is equal to 0 and total is equal to 0 while i is less than len item is equal to the shopping list indexed at i and total is equal to total plus the value given by item cost map with key item

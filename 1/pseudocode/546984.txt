@@ -1,20 +1,3 @@
 with_tax = 1.2 * meal_price;
 with_tip = 1.1 * with_tax;
 return with_tip;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

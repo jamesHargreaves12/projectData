@@ -1,1 +1,1 @@
-so set the total to zero then for each month in months rainfall total is equal to total plus month end the for loop and the return total
+so set the total to 0 then for each month in months rainfall total is equal to total plus month end the for loop and the return total
