@@ -22,7 +22,3 @@ else{
 	}
 	return l_3;
 }
-
-
-
-

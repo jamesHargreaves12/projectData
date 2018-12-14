@@ -3,10 +3,3 @@ for item in shopping_list {
 	cost = cost + item_cost_map[item];
 }
 return cost;
-
-
-
-
-
-
-

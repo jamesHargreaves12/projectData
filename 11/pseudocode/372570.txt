@@ -1,13 +1,7 @@
 n = length(input_string)/2;
 for i = 0; i <= n;  i ++; {
 	if input_string[i] != input_string[length(input_string)-i] {
-		return False;
+		return false;
 	}
 }
-return True;
-
-
-
-
-
-
+return true;

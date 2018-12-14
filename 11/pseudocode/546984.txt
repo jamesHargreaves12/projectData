@@ -3,13 +3,7 @@ for i = 0; i < l/2; i += 1;{
 	letter = input_string[i];
 	symmetric_letter = input_string[l-i];
 	if letter != symmetric_letter{
-		return False;
+		return false;
 	}
 }
-return True;
-
-
-
-
-
-
+return true;

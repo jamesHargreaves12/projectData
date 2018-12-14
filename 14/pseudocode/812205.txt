@@ -4,6 +4,3 @@ if length(input_list) == 0 or length(input_list) == 1{
 else{
 	return merge(each(split_in_half(linput_list),recurse));
 }
-
-
-

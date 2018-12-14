@@ -3,9 +3,3 @@ for i = n; i > 0; i --; {
 	total = total * i;
 }
 return total;
-
-
-
-
-
-

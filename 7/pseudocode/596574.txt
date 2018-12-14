@@ -1,13 +1,6 @@
 for i in range(1,square_root(n)){
 	if remainder(i,n) == 0{
-		return False;
+		return false;
 	}
 }
-return True;
-
-
-
-
-
-
-
+return true;

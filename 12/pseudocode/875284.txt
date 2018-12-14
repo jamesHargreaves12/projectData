@@ -2,9 +2,3 @@ temp = number_list[i];
 number_list[i] = number_list[j];
 number_list[j] = number_list[temp];
 return number_list;
-
-
-
-
-
-

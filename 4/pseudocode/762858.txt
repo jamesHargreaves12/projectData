@@ -5,10 +5,3 @@ while i < len {
 	item = shopping_list[i];
 	total = total + item_cost_map[item];
 }
-
-
-
-
-
-
-

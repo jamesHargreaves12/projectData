@@ -2,15 +2,8 @@ root_n = floor(square_root(n));
 i = 2;
 while i < root_n {
 	if remainder(n,i) == 0{
-		return False;
+		return false;
 	}
 	i = i + 1;
 }
-return True;
-
-
-
-
-
-
-
+return true;

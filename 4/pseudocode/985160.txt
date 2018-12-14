@@ -2,10 +2,3 @@ for item in shopping_list{
 	total = item_cost_map.get(item);
 }
 return total;
-
-
-
-
-
-
-

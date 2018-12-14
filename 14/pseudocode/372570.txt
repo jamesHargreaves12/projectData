@@ -15,9 +15,3 @@ for item in input_list{
 recurse(less_than_list);
 rescurse(more_than_list);
 return compose(less_than_list, more_than_list);
-
-
-
-
-
-

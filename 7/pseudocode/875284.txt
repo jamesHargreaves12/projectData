@@ -1,11 +1,5 @@
-result = True;
+result = true;
 for i = 1; i < n/2; i ++; {
 	result &= remainder(n,i) != 0;
 }
 return result;
-
-
-
-
-
-

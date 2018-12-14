@@ -1,21 +1,14 @@
 if n == 1 {
-	return False;
+	return false;
 }
 else_if	n == 2{
-	return True;
+	return true;
 }
 else{
 	for d=2; d < square_root(n); d +=1;{
 		if remainder(n,d) == 0{
-			return False;
+			return false;
 		}
 	}
-	return True;
+	return true;
 }
-
-
-
-
-
-
-
