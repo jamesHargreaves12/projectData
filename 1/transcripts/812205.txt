@@ -1,1 +1,1 @@
-Return meal price times one point two times one point one.
+Return meal price times 1 point 2 times 1 point 1.

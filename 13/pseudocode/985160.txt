@@ -1,2 +1,7 @@
-ISSUE with transcript - doesnt match audio
+issue = True;
+
+
+
+
+
 

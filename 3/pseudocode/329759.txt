@@ -4,3 +4,8 @@ for rainfall in months_rainfall{
 return total_rainfall;
 
 
+
+
+
+
+

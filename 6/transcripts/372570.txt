@@ -1,2 +1,2 @@
-if n is equal to one or n is less than or equal to 20 and n increments by one each time if n mod three does not equal 0 and n mod 5 does not equal 0 then print n. Else if n mod 3 is equal 0 print fizz if n mod 5 is equal to 0 print buzz then put the new line and end the for loop.  
+if n is equal to 1 or n is less than or equal to 20 and n increments by 1 each time if n mod 3 does not equal 0 and n mod 5 does not equal 0 then print n. Else if n mod 3 is equal 0 print fizz if n mod 5 is equal to 0 print buzz then put the new line and end the for loop.  
 

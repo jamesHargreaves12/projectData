@@ -4,3 +4,8 @@ for item in shopping_list{
 return total;
 
 
+
+
+
+
+

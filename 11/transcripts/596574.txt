@@ -1,2 +1,2 @@
- len string equals the length of the input string for i in range 0 to Len string over two inclusive if character at index i in input string does not equal character at index. Len string minus one minus i of input string then return false end the for loop then return true.  
+ len string equals the length of the input string for i in range 0 to Len string over 2 inclusive if character at index i in input string does not equal character at index. Len string minus 1 minus i of input string then return false end the for loop then return true.  
 

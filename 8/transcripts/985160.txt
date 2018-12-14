@@ -1,2 +1,2 @@
- fib Equals one for Integer i equals two to n fib equals fib multiplied by i end for. Returns fib.  
+ fib Equals 1 for Integer i equals 2 to n fib equals fib multiplied by i end for. Returns fib.  
 

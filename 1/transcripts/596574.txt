@@ -1,1 +1,1 @@
-Tax equals meal price times nought point two tip equals meal price plus tax times nought point one and then return meal price plus tax plus tip.
+Tax equals meal price times nought point 2 tip equals meal price plus tax times nought point 1 and then return meal price plus tax plus tip.

@@ -3,3 +3,6 @@ for x in number_list{
 	result.cons(x*coefficient);
 }
 return result;
+
+
+

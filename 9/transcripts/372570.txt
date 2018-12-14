@@ -1,2 +1,2 @@
-let total equal one and do a for loop where i is equal to n while I is greater than zero and I decrements by one each time the total is equal to the total times I end the for loop then return the total.  
+let total equal 1 and do a for loop where i is equal to n while I is greater than zero and I decrements by 1 each time the total is equal to the total times I end the for loop then return the total.  
 

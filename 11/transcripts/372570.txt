@@ -1,2 +1,2 @@
- Let's n equal the length of the input string divided by two and then do a for loop for i is equal to zero. where i is less than or equal to n increment I by one each time and then do if the input string at I is not equal to the input string at the length of the input string minus I then return false  end the if and end the for loop there then return true.  
+ Let's n equal the length of the input string divided by 2 and then do a for loop for i is equal to zero. where i is less than or equal to n increment I by 1 each time and then do if the input string at I is not equal to the input string at the length of the input string minus I then return false  end the if and end the for loop there then return true.  
 
