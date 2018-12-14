@@ -1,1 +1,1 @@
-meal price equals meal price times 1 point 2 meal price equals meal price multiplied by 1 point 1 return meal price.
+meal price equals meal price times 1.2 meal price equals meal price multiplied by 1.1 return meal price.
