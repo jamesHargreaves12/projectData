@@ -1,0 +1,1 @@
+for integer VARIABLE equals 0 VARIABLE smaller than 21 VARIABLE plus plus open parentheses VARIABLE VARIABLE backslash n close parentheses

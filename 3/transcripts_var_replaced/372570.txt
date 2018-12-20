@@ -1,0 +1,1 @@
+VARIABLE equals 0 then do a for loop each VARIABLE in VARIABLE VARIABLE is equal to VARIABLE plus VARIABLE end for loop and return the VARIABLE

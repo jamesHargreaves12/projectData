@@ -1,0 +1,1 @@
+VARIABLE equals 0 for each VARIABLE in the VARIABLE the VARIABLE is equal to the VARIABLE plus the value of the VARIABLE costs map at the key VARIABLE then end the for loop and return the VARIABLE

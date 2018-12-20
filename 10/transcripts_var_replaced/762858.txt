@@ -1,0 +1,2 @@
+ return and VARIABLE multiplied by VARIABLE plus 1 divided by 2 
+

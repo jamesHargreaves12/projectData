@@ -1,0 +1,2 @@
+ let VARIABLE equals 0 for item VARIABLE in VARIABLE set VARIABLE to the VARIABLE of VARIABLE and VARIABLE end for return VARIABLE  
+

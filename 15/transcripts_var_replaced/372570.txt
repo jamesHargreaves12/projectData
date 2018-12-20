@@ -1,0 +1,2 @@
+ create a VARIABLE which is empty and for each VARIABLE in the VARIABLE multiply the VARIABLE by the VARIABLE and VARIABLE it to this VARIABLE end the for loop and return this VARIABLE  
+

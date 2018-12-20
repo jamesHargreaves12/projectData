@@ -1,0 +1,2 @@
+ VARIABLE equal true for VARIABLE equal 0 VARIABLE smaller than VARIABLE VARIABLE divided by 2 VARIABLE plus plus open parentheses if VARIABLE index VARIABLE is different than VARIABLE index VARIABLE VARIABLE minus VARIABLE then VARIABLE equal false VARIABLE close parentheses return VARIABLE  
+

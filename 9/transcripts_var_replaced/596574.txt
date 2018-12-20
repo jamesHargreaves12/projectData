@@ -1,0 +1,2 @@
+set VARIABLE is equal 1 for VARIABLE in the VARIABLE 1 to VARIABLE inclusive VARIABLE equals VARIABLE times VARIABLE end for and return VARIABLE  
+

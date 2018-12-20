@@ -1,0 +1,2 @@
+ if VARIABLE is equal to 0 return 1 otherwise recursively calculate the VARIABLE of VARIABLE minus 1 multiply this by VARIABLE and then return that  
+

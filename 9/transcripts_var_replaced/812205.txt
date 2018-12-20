@@ -1,0 +1,2 @@
+ initialize VARIABLE to 1 for VARIABLE in the VARIABLE 1 to VARIABLE inclusive set VARIABLE to VARIABLE multiplied by VARIABLE end for loop return VARIABLE  
+

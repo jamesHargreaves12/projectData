@@ -1,0 +1,3 @@
+ for integer VARIABLE equals 0 to VARIABLE dot VARIABLE minus 1 VARIABLE open square bracket VARIABLE close square bracket equals VARIABLE open square bracket VARIABLE close square bracket multiplied by VARIABLE end for return VARIABLE  
+
+

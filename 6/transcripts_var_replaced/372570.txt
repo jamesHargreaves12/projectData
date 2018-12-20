@@ -1,0 +1,2 @@
+if VARIABLE is equal to 1 or VARIABLE is less than or equal to 20 and VARIABLE increments by 1 each time if VARIABLE VARIABLE 3 does not equal 0 and VARIABLE VARIABLE 5 does not equal 0 then VARIABLE VARIABLE else if VARIABLE VARIABLE 3 is equal 0 VARIABLE fizz if VARIABLE VARIABLE 5 is equal to 0 VARIABLE buzz then put the new line and end the for loop  
+

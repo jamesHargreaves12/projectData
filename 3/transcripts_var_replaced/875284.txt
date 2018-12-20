@@ -1,0 +1,1 @@
+create a variable VARIABLE equal to 0 and for VARIABLE in months VARIABLE open parentheses VARIABLE plus equal VARIABLE close parentheses and then return VARIABLE

@@ -1,0 +1,2 @@
+ let a new variable VARIABLE equal to VARIABLE position VARIABLE let VARIABLE position VARIABLE equal to VARIABLE position VARIABLE and let VARIABLE position VARIABLE equal to VARIABLE  
+

@@ -1,0 +1,2 @@
+ for VARIABLE in the VARIABLE 0 to the VARIABLE of the VARIABLE minus 1 inclusive VARIABLE index VARIABLE is set to VARIABLE index VARIABLE times the VARIABLE end the for loop return the VARIABLE  
+

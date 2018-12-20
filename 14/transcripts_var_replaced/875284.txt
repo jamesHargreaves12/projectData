@@ -1,0 +1,2 @@
+ if VARIABLE VARIABLE is equal to 1 return VARIABLE else VARIABLE VARIABLE from index 0 to VARIABLE VARIABLE divided by 2  
+

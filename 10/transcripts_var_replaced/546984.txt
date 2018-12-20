@@ -1,0 +1,2 @@
+ let variable VARIABLE equal 0 while VARIABLE is bigger than 0 add VARIABLE to the VARIABLE then subtract 1 from VARIABLE end while return VARIABLE  
+

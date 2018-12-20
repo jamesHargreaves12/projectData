@@ -1,0 +1,2 @@
+ if VARIABLE equals 0 then return 1 otherwise return VARIABLE times VARIABLE of VARIABLE minus 1 end if  
+

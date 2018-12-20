@@ -1,0 +1,2 @@
+ initialize VARIABLE to 0 for VARIABLE in the VARIABLE 1 to VARIABLE inclusive increment VARIABLE by VARIABLE return VARIABLE  
+

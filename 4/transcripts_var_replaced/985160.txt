@@ -1,0 +1,1 @@
+for VARIABLE in VARIABLE VARIABLE equals VARIABLE cost map dot VARIABLE open bracket VARIABLE close bracket end for return VARIABLE

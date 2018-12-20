@@ -1,0 +1,1 @@
+for VARIABLE in months VARIABLE total VARIABLE equals total VARIABLE plus VARIABLE end for return total VARIABLE

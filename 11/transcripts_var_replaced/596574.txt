@@ -1,0 +1,2 @@
+ VARIABLE equals the VARIABLE of the VARIABLE for VARIABLE in VARIABLE 0 to VARIABLE over 2 inclusive if character at index VARIABLE in VARIABLE does not equal character at index VARIABLE minus 1 minus VARIABLE of VARIABLE then return false end the for loop then return true  
+

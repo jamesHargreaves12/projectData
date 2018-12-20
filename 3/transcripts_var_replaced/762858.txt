@@ -1,0 +1,2 @@
+
+initialize a variable VARIABLE as 0 for each VARIABLE in the list month's rainfall add that value to the VARIABLE value do that for each of the 12 items in the list and return the VARIABLE

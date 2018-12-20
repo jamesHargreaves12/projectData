@@ -1,0 +1,2 @@
+ let VARIABLE be an empty list for each VARIABLE in VARIABLE if the VARIABLE is greater than the VARIABLE VARIABLE VARIABLE to VARIABLE end if end the for loop and return VARIABLE  
+

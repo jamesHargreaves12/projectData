@@ -1,0 +1,2 @@
+ for VARIABLE in the VARIABLE 0 to the VARIABLE of VARIABLE minus 1 inclusive set the value at index VARIABLE in VARIABLE to the value at index VARIABLE in VARIABLE multiplied by VARIABLE return VARIABLE  
+

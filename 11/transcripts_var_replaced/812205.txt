@@ -1,0 +1,2 @@
+ for VARIABLE in the VARIABLE 0 to the VARIABLE of VARIABLE integer divided by 2 if the character at VARIABLE in VARIABLE is not equal to the character at VARIABLE VARIABLE of the VARIABLE minus 1 minus VARIABLE return false end for loop return true  
+

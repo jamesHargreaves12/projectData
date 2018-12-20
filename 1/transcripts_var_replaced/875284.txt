@@ -1,0 +1,1 @@
+so VARIABLE plus equals VARIABLE times by VARIABLE divided by 1 hundred and then VARIABLE plus equals VARIABLE times by 2 divided by 1 hundred return VARIABLE

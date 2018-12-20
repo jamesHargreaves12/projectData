@@ -1,0 +1,2 @@
+ integer VARIABLE equals VARIABLE square bracket VARIABLE close square bracket VARIABLE square bracket VARIABLE close swear bracket equals VARIABLE square bracket VARIABLE close square bracket VARIABLE square bracket VARIABLE close square bracket equals VARIABLE return VARIABLE  
+

@@ -1,0 +1,1 @@
+VARIABLE equals VARIABLE times 1.2 VARIABLE equals VARIABLE multiplied by 1.1 return VARIABLE
