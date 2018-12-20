@@ -1,0 +1,5 @@
+result
+x
+number list
+cons
+coefficient

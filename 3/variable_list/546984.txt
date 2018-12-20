@@ -1,0 +1,3 @@
+reduce
+month rainfall
+add

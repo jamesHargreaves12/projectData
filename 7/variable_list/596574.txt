@@ -1,0 +1,5 @@
+i
+range
+square root
+n
+remainder

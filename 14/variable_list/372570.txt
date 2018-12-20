@@ -1,0 +1,11 @@
+length
+input list
+pivot
+less than list
+more than list
+item
+piviot
+append
+recurse
+rescurse
+compose

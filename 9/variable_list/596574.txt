@@ -1,0 +1,4 @@
+accumulator
+x
+range
+n

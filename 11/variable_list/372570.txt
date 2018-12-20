@@ -1,0 +1,4 @@
+n
+length
+input string
+i

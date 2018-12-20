@@ -1,0 +1,5 @@
+i
+range
+number list
+length
+coefficient

@@ -1,0 +1,5 @@
+highest
+list
+non empty
+first item
+remove first item

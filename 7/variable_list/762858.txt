@@ -1,0 +1,6 @@
+root n
+floor
+square root
+n
+i
+remainder
