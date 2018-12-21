@@ -1,5 +1,6 @@
 i
+n
+*********
 range
 square root
-n
 remainder

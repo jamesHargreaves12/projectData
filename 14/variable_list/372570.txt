@@ -1,10 +1,11 @@
-length
 input list
 pivot
 less than list
 more than list
 item
 piviot
+*********
+length
 append
 recurse
 rescurse

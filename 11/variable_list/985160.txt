@@ -1,3 +1,4 @@
 i
 input string
+*********
 length

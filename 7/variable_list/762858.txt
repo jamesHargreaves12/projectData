@@ -1,6 +1,7 @@
 root n
-floor
-square root
 n
 i
+*********
+floor
+square root
 remainder

@@ -1,6 +1,7 @@
 l
-length
 input string
 i
 letter
 symmetric letter
+*********
+length

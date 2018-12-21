@@ -1,5 +1,6 @@
 len string
-length
 input string
 i
+*********
+length
 range

@@ -1,4 +1,5 @@
 i
+*********
 range
 mod
 print

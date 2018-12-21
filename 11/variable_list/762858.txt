@@ -1,5 +1,6 @@
 result
 i
-length
 input string
 break
+*********
+length

@@ -1,4 +1,5 @@
 sum
 x
-range
 n
+*********
+range

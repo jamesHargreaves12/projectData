@@ -1,5 +1,6 @@
 i
-length
 input list
 j
+*********
+length
 swap

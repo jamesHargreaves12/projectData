@@ -1,3 +1,4 @@
 with tax
 meal price
 with tip
+*********

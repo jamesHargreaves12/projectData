@@ -1,7 +1,8 @@
-length
 input list
+linput list
+recurse
+*********
+length
 merge
 each
 split in half
-linput list
-recurse

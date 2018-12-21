@@ -1,12 +1,13 @@
 len
-length
 input list
 sorted left
-mergesort
 sorted right
 left pointer
 right pointer
 merged
-sorted
 right
+*********
+length
+mergesort
+sorted
 append

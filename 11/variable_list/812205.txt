@@ -1,4 +1,5 @@
 index
+input string
+*********
 range
 length
-input string
