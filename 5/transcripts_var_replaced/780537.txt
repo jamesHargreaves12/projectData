@@ -1,1 +1,1 @@
-for each VARIABLE between 1 and 20 VARIABLE VARIABLE and end the loop
+for each VARIABLE between 1 and 20 FUNCTION VARIABLE and end the loop

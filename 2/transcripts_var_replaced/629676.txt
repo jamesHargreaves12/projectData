@@ -1,1 +1,1 @@
-set VARIABLE to 0 while VARIABLE not empty start loop block if VARIABLE of VARIABLE greater than VARIABLE start a new block and set VARIABLE to the VARIABLE on the VARIABLE end that block removed the VARIABLE from the VARIABLE end the loop block
+set VARIABLE to 0 while VARIABLE not empty start loop block if FUNCTION of VARIABLE greater than VARIABLE start a new block and set VARIABLE to the FUNCTION on the VARIABLE end that block removed the FUNCTION from the VARIABLE end the loop block

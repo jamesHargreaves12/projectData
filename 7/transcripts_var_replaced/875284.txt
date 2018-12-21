@@ -1,2 +1,2 @@
- VARIABLE equal true for VARIABLE equal to 1 VARIABLE smaller than VARIABLE divided by 2 VARIABLE plus plus open parentheses VARIABLE and equal VARIABLE VARIABLE VARIABLE different than 0 close parenthesis return VARIABLE  
+ VARIABLE equal true for VARIABLE equal to 1 VARIABLE smaller than VARIABLE divided by 2 VARIABLE plus plus open parentheses VARIABLE and equal FUNCTION VARIABLE VARIABLE different than 0 close parenthesis return VARIABLE  
 

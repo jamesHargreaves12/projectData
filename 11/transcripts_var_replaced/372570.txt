@@ -1,2 +1,2 @@
- let's VARIABLE equal the VARIABLE of the VARIABLE divided by 2 and then do a for loop for VARIABLE is equal to 0 where VARIABLE is less than or equal to VARIABLE increment VARIABLE by 1 each time and then do if the VARIABLE at VARIABLE is not equal to the VARIABLE at the VARIABLE of the VARIABLE minus VARIABLE then return false  end the if and end the for loop there then return true  
+ let's VARIABLE equal the FUNCTION of the VARIABLE divided by 2 and then do a for loop for VARIABLE is equal to 0 where VARIABLE is less than or equal to VARIABLE increment VARIABLE by 1 each time and then do if the VARIABLE at VARIABLE is not equal to the VARIABLE at the FUNCTION of the VARIABLE minus VARIABLE then return false  end the if and end the for loop there then return true  
 

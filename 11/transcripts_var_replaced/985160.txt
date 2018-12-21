@@ -1,2 +1,2 @@
- for integer VARIABLE equals 0 to open brackets VARIABLE dot VARIABLE minus 1 close brackets over 2 if VARIABLE square bracket VARIABLE close square bracket not equal to VARIABLE open bracket VARIABLE dot VARIABLE minus VARIABLE close bracket return false end if end for return true  
+ for integer VARIABLE equals 0 to open brackets VARIABLE dot FUNCTION minus 1 close brackets over 2 if VARIABLE square bracket VARIABLE close square bracket not equal to VARIABLE open bracket VARIABLE dot FUNCTION minus VARIABLE close bracket return false end if end for return true  
 

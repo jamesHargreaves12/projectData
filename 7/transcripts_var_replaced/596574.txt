@@ -1,2 +1,2 @@
- for VARIABLE in the VARIABLE 1 to VARIABLE of VARIABLE inclusive if remaineder VARIABLE VARIABLE is 0 then return false end for loop return true 
+ for VARIABLE in the FUNCTION 1 to FUNCTION of VARIABLE inclusive if remaineder VARIABLE VARIABLE is 0 then return false end for loop return true 
 

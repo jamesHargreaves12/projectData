@@ -1,2 +1,2 @@
- if VARIABLE equals 1 then return false otherwise if VARIABLE equals 2 return true otherwise for VARIABLE equals 2 up to the VARIABLE of VARIABLE incrementing VARIABLE each time do the following if the VARIABLE of VARIABLE with VARIABLE equals 0 then return false end if end for return true  
+ if VARIABLE equals 1 then return false otherwise if VARIABLE equals 2 return true otherwise for VARIABLE equals 2 up to the FUNCTION of VARIABLE incrementing VARIABLE each time do the following if the FUNCTION of VARIABLE with VARIABLE equals 0 then return false end if end for return true  
 

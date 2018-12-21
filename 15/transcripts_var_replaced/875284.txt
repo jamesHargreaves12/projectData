@@ -1,2 +1,2 @@
- for integer VARIABLE equal to 0 VARIABLE smaller than VARIABLE VARIABLE VARIABLE plus plus VARIABLE index VARIABLE equals VARIABLE index VARIABLE times by VARIABLE close parentheses return VARIABLE  
+ for integer VARIABLE equal to 0 VARIABLE smaller than FUNCTION VARIABLE VARIABLE plus plus VARIABLE index VARIABLE equals VARIABLE index VARIABLE times by VARIABLE close parentheses return VARIABLE  
 

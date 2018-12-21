@@ -1,1 +1,1 @@
- set VARIABLE to equal 0 for VARIABLE in the VARIABLE 1 to VARIABLE inclusive VARIABLE plus equals VARIABLE end the for loop and return VARIABLE  
+ set VARIABLE to equal 0 for VARIABLE in the FUNCTION 1 to VARIABLE inclusive VARIABLE plus equals VARIABLE end the for loop and return VARIABLE  

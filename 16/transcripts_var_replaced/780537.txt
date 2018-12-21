@@ -1,2 +1,2 @@
- define a variable named VARIABLE in set this equal to the empty list and then for each VARIABLE of VARIABLE if that VARIABLE is greater than the VARIABLE then VARIABLE the VARIABLE on to the front of VARIABLE  end if end the loop and return VARIABLE  
+ define a variable named VARIABLE in set this equal to the empty list and then for each VARIABLE of VARIABLE if that VARIABLE is greater than the VARIABLE then FUNCTION the VARIABLE on to the front of VARIABLE  end if end the loop and return VARIABLE  
 

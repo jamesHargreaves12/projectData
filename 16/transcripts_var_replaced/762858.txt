@@ -1,2 +1,2 @@
-initialize an empty list called VARIABLE for each VARIABLE in VARIABLE if VARIABLE is greater than VARIABLE VARIABLE VARIABLE to VARIABLE 
+initialize an empty list called VARIABLE for each VARIABLE in VARIABLE if VARIABLE is greater than VARIABLE FUNCTION VARIABLE to VARIABLE 
 

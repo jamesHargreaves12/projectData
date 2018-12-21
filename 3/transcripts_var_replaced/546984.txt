@@ -1,1 +1,1 @@
-return VARIABLE VARIABLE using the plus function
+return FUNCTION VARIABLE using the plus function

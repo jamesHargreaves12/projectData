@@ -1,1 +1,1 @@
-VARIABLE is equal to the VARIABLE of the VARIABLE VARIABLE is equal to 0 and VARIABLE is equal to 0 while VARIABLE is less than VARIABLE VARIABLE is equal to the VARIABLE indexed at VARIABLE and VARIABLE is equal to VARIABLE plus the value given by VARIABLE cost map with key VARIABLE
+VARIABLE is equal to the FUNCTION of the VARIABLE VARIABLE is equal to 0 and VARIABLE is equal to 0 while VARIABLE is less than VARIABLE VARIABLE is equal to the VARIABLE indexed at VARIABLE and VARIABLE is equal to VARIABLE plus the value given by VARIABLE cost map with key VARIABLE
