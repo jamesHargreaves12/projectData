@@ -1,1 +1,1 @@
-so VARIABLE plus equals VARIABLE times by VARIABLE divided by NUMBER hundred and then VARIABLE plus equals VARIABLE times by NUMBER divided by NUMBER hundred return VARIABLE
+so VARIABLE plus equals VARIABLE times by VARIABLE divided by NUMBER and then VARIABLE plus equals VARIABLE times by NUMBER divided by NUMBER return VARIABLE
