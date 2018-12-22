@@ -1,1 +1,1 @@
-for VARIABLE in VARIABLE VARIABLE equals VARIABLE cost map dot FUNCTION_CALL open bracket VARIABLE close bracket end for return VARIABLE
+for VARIABLE in VARIABLE VARIABLE equals VARIABLE dot FUNCTION_CALL open bracket VARIABLE close bracket end for return VARIABLE

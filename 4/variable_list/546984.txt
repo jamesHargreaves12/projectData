@@ -1,5 +1,5 @@
-accumulator
-x
 shopping list
 item cost map
+accumulator
+x
 *********

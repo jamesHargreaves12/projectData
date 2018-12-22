@@ -1,4 +1,4 @@
-i
 input string
+i
 *********
 length

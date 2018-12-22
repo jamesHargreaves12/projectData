@@ -1,5 +1,5 @@
-index
 input string
+index
 *********
 range
 length

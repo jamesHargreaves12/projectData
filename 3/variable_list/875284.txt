@@ -1,4 +1,4 @@
-total
-rainfall
 months rainfall
+rainfall
+total
 *********

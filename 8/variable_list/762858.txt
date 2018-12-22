@@ -1,6 +1,6 @@
+count
+temp
 a
 b
-count
 n
-temp
 *********

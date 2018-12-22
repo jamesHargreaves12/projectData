@@ -1,5 +1,5 @@
-input list
 linput list
+input list
 recurse
 *********
 length

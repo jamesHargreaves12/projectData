@@ -1,7 +1,7 @@
-l
-input string
-i
-letter
 symmetric letter
+input string
+letter
+l
+i
 *********
 length

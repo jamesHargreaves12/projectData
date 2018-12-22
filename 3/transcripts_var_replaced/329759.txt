@@ -1,1 +1,1 @@
-for VARIABLE in months VARIABLE add VARIABLE to total VARIABLE end for return total VARIABLE
+for VARIABLE in VARIABLE add VARIABLE to VARIABLE end for return VARIABLE

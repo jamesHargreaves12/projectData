@@ -1,5 +1,5 @@
+months rainfall
 total rainfall
 i
-months rainfall
 *********
 range

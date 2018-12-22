@@ -1,5 +1,5 @@
-i
 input list
+i
 j
 *********
 length

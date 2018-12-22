@@ -1,5 +1,5 @@
-i
 number list
 coefficient
+i
 *********
 length

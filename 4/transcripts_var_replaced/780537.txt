@@ -1,1 +1,1 @@
-create a variable named VARIABLE set equal to NUMBER next for all VARIABLE in VARIABLE look up VARIABLE in item VARIABLE map and store this in a variable named VARIABLE add VARIABLE and VARIABLE together and store that in VARIABLE end the loop
+create a variable named VARIABLE set equal to NUMBER next for all VARIABLE in VARIABLE look up VARIABLE in VARIABLE and store this in a variable named VARIABLE add VARIABLE and VARIABLE together and store that in VARIABLE end the loop

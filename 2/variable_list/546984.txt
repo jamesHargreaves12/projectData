@@ -1,5 +1,5 @@
+number list
 highest
 x
-number list
 *********
 max

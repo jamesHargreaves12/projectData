@@ -1,12 +1,12 @@
 input list
 halfway
-l 1
-l 2
-i
-j
-l 3
 item 1
 item 2
+l 1
+l 2
+l 3
+i
+j
 *********
 length
 merge sort

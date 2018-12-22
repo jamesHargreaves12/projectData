@@ -1,8 +1,8 @@
-len
 shopping list
-i
+item cost map
 total
 item
-item cost map
+len
+i
 *********
 length

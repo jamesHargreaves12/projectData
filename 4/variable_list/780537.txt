@@ -1,6 +1,6 @@
-total
-x
 shopping list
-cost
 item cost map
+total
+cost
+x
 *********

@@ -1,6 +1,6 @@
-len
 number list
-i
 coefficient
+len
+i
 *********
 length

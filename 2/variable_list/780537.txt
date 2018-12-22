@@ -1,6 +1,6 @@
+first term
 highest
 list
-first term
 *********
 not empty
 head

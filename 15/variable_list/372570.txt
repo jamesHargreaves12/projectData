@@ -1,6 +1,6 @@
-new list
-item
 number list
 coefficient
+new list
+item
 *********
 append

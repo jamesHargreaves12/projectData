@@ -1,12 +1,12 @@
-len
-list
-sorted first
+sorted seccond
 sorted second
+sorted first
+result
+list
+len
 j
 k
-result
 i
-sorted seccond
 *********
 length
 recurse

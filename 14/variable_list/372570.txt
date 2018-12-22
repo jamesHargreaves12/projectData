@@ -1,9 +1,9 @@
-input list
-pivot
 less than list
 more than list
-item
+input list
 piviot
+pivot
+item
 *********
 length
 append

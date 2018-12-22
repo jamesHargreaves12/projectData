@@ -1,6 +1,6 @@
-item
 shopping list
-total
 item cost map
+total
+item
 *********
 get

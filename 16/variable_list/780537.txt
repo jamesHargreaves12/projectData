@@ -1,6 +1,6 @@
-result
-element
 number list
 threshold
+element
+result
 *********
 cons

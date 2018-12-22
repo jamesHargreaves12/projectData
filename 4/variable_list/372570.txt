@@ -1,5 +1,5 @@
-cost
-item
 shopping list
 item cost map
+cost
+item
 *********
