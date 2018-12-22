@@ -1,1 +1,1 @@
-so meal price plus equals meal price times by tax divided by 1 hundred and then meal price plus equals meal price times by 2 divided by 1 hundred return meal price
+so meal price plus equals meal price times by tax divided by 100 and then meal price plus equals meal price times by 2 divided by 100 return meal price
