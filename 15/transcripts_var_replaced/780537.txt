@@ -1,2 +1,2 @@
- define a variable called VARIABLE and set that equal to the empty list next for each VARIABLE in VARIABLE multiply VARIABLE by VARIABLE and FUNCTION this on to the variable VARIABLE end the loop and return VARIABLE  
+define a variable called VARIABLE and set that equal to the empty list next for each VARIABLE in VARIABLE multiply VARIABLE by VARIABLE and FUNCTION this on to the variable VARIABLE end the loop and return VARIABLE 
 

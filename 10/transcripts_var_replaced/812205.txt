@@ -1,2 +1,2 @@
- initialize VARIABLE to NUMBER for VARIABLE in the FUNCTION NUMBER to VARIABLE inclusive increment VARIABLE by VARIABLE return VARIABLE  
+initialize VARIABLE to NUMBER for VARIABLE in the FUNCTION NUMBER to VARIABLE inclusive increment VARIABLE by VARIABLE return VARIABLE 
 

@@ -1,2 +1,2 @@
- VARIABLE equals the FUNCTION of the VARIABLE for VARIABLE in FUNCTION NUMBER to VARIABLE over NUMBER inclusive if character at index VARIABLE in VARIABLE does not equal character at index VARIABLE minus NUMBER minus VARIABLE of VARIABLE then return false end the for loop then return true  
+VARIABLE equals the FUNCTION of the VARIABLE for VARIABLE in FUNCTION NUMBER to VARIABLE over NUMBER inclusive if character at index VARIABLE in VARIABLE does not equal character at index VARIABLE minus NUMBER minus VARIABLE of VARIABLE then return false end the for loop then return true 
 

@@ -1,2 +1,2 @@
-set VARIABLE is equal NUMBER for VARIABLE in the FUNCTION NUMBER to VARIABLE inclusive VARIABLE equals VARIABLE times VARIABLE end for and return VARIABLE  
+set VARIABLE is equal NUMBER for VARIABLE in the FUNCTION NUMBER to VARIABLE inclusive VARIABLE equals VARIABLE times VARIABLE end for and return VARIABLE 
 

@@ -1,2 +1,2 @@
- if VARIABLE equals NUMBER then return NUMBER otherwise return VARIABLE times FUNCTION of VARIABLE minus NUMBER end if  
+if VARIABLE equals NUMBER then return NUMBER otherwise return VARIABLE times FUNCTION of VARIABLE minus NUMBER end if 
 

@@ -1,2 +1,2 @@
-let VARIABLE equal NUMBER and do a for loop where VARIABLE is equal to VARIABLE while VARIABLE is greater than NUMBER and VARIABLE decrements by NUMBER each time the VARIABLE is equal to the VARIABLE times VARIABLE end the for loop then return the VARIABLE  
+let VARIABLE equal NUMBER and do a for loop where VARIABLE is equal to VARIABLE while VARIABLE is greater than NUMBER and VARIABLE decrements by NUMBER each time the VARIABLE is equal to the VARIABLE times VARIABLE end the for loop then return the VARIABLE 
 

@@ -1,2 +1,2 @@
- let variable VARIABLE equal NUMBER times VARIABLE variable VARIABLE equal NUMBER times VARIABLE return VARIABLE  
+let variable VARIABLE equal NUMBER times VARIABLE variable VARIABLE equal NUMBER times VARIABLE return VARIABLE 
 

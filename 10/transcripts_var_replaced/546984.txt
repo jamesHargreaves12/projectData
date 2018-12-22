@@ -1,2 +1,2 @@
- let variable VARIABLE equal NUMBER while VARIABLE is bigger than NUMBER add VARIABLE to the VARIABLE then subtract NUMBER from VARIABLE end while return VARIABLE  
+let variable VARIABLE equal NUMBER while VARIABLE is bigger than NUMBER add VARIABLE to the VARIABLE then subtract NUMBER from VARIABLE end while return VARIABLE 
 

@@ -1,2 +1,2 @@
- VARIABLE equals VARIABLE at index VARIABLE VARIABLE at index VARIABLE is set to VARIABLE index VARIABLE VARIABLE list at index VARIABLE is set to VARIABLE  
+VARIABLE equals VARIABLE at index VARIABLE VARIABLE at index VARIABLE is set to VARIABLE index VARIABLE VARIABLE list at index VARIABLE is set to VARIABLE 
 

@@ -1,2 +1,2 @@
- for VARIABLE in the FUNCTION NUMBER to the FUNCTION of the VARIABLE minus NUMBER inclusive VARIABLE index VARIABLE is set to VARIABLE index VARIABLE times the VARIABLE end the for loop return the VARIABLE  
+for VARIABLE in the FUNCTION NUMBER to the FUNCTION of the VARIABLE minus NUMBER inclusive VARIABLE index VARIABLE is set to VARIABLE index VARIABLE times the VARIABLE end the for loop return the VARIABLE 
 

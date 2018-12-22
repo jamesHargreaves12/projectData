@@ -1,2 +1,2 @@
- for VARIABLE in the FUNCTION NUMBER to FUNCTION of VARIABLE inclusive if remaineder VARIABLE VARIABLE is NUMBER then return false end for loop return true 
+for VARIABLE in the FUNCTION NUMBER to FUNCTION of VARIABLE inclusive if remaineder VARIABLE VARIABLE is NUMBER then return false end for loop return true 
 

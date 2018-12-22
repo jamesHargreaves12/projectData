@@ -1,2 +1,2 @@
- VARIABLE equals NUMBER for integer VARIABLE equals NUMBER to VARIABLE VARIABLE equals VARIABLE multiplied by VARIABLE end for returns VARIABLE  
+VARIABLE equals NUMBER for integer VARIABLE equals NUMBER to VARIABLE VARIABLE equals VARIABLE multiplied by VARIABLE end for returns VARIABLE 
 
