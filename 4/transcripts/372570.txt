@@ -1,1 +1,1 @@
-cost equals 0 for each item in the shopping list the cost is equal to the cost plus the value of the item costs map at the key item then end the for loop and return the cost
+cost equals 0 for each item in the shopping list the cost is equal to the cost plus the value of the item cost map at the key item then end the for loop and return the cost
