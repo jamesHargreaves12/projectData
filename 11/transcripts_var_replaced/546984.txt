@@ -1,2 +1,2 @@
-variable VARIABLE equal the FUNCTION of the VARIABLE for VARIABLE equals NUMBER up to VARIABLE integer div NUMBER incrementing VARIABLE each time do the following let variable VARIABLE equal VARIABLE index VARIABLE let symmetric VARIABLE equal VARIABLE at index VARIABLE minus VARIABLE if VARIABLE does not equal symmetric VARIABLE return false end if end for return true 
+variable VARIABLE equal the FUNCTION_CALL of the VARIABLE for VARIABLE equals NUMBER up to VARIABLE integer div NUMBER incrementing VARIABLE each time do the following let variable VARIABLE equal VARIABLE index VARIABLE let symmetric VARIABLE equal VARIABLE at index VARIABLE minus VARIABLE if VARIABLE does not equal symmetric VARIABLE return false end if end for return true 
 

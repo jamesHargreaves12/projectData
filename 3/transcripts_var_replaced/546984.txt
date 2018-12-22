@@ -1,1 +1,1 @@
-return FUNCTION VARIABLE using the plus function
+return FUNCTION_CALL VARIABLE using the plus function

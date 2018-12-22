@@ -1,2 +1,2 @@
-let VARIABLE equals NUMBER for item VARIABLE in VARIABLE set VARIABLE to the FUNCTION of VARIABLE and VARIABLE end for return VARIABLE 
+let VARIABLE equals NUMBER for item VARIABLE in VARIABLE set VARIABLE to the FUNCTION_CALL of VARIABLE and VARIABLE end for return VARIABLE 
 

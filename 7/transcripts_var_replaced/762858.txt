@@ -1,3 +1,3 @@
-let VARIABLE equal the FUNCTION of the FUNCTION of VARIABLE VARIABLE equals NUMBER while VARIABLE is less than VARIABLE do if FUNCTION VARIABLE VARIABLE is equal to NUMBER do return false end if VARIABLE is equal to VARIABLE plus NUMBER end return true 
+let VARIABLE equal the FUNCTION_CALL of the FUNCTION_CALL of VARIABLE VARIABLE equals NUMBER while VARIABLE is less than VARIABLE do if FUNCTION_CALL VARIABLE VARIABLE is equal to NUMBER do return false end if VARIABLE is equal to VARIABLE plus NUMBER end return true 
 
 

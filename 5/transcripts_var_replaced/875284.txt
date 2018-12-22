@@ -1,1 +1,1 @@
-for integer VARIABLE equals NUMBER VARIABLE smaller than NUMBER VARIABLE plus plus open parentheses FUNCTION VARIABLE backslash n close parentheses
+for integer VARIABLE equals NUMBER VARIABLE smaller than NUMBER VARIABLE plus plus open parentheses FUNCTION_CALL VARIABLE backslash n close parentheses

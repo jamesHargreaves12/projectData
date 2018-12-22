@@ -1,2 +1,2 @@
-initialize VARIABLE to NUMBER for VARIABLE in the FUNCTION NUMBER to VARIABLE inclusive set VARIABLE to VARIABLE multiplied by VARIABLE end for loop return VARIABLE 
+initialize VARIABLE to NUMBER for VARIABLE in the FUNCTION_CALL NUMBER to VARIABLE inclusive set VARIABLE to VARIABLE multiplied by VARIABLE end for loop return VARIABLE 
 

@@ -1,1 +1,1 @@
-for each VARIABLE between NUMBER and NUMBER FUNCTION VARIABLE and end the loop
+for each VARIABLE between NUMBER and NUMBER FUNCTION_CALL VARIABLE and end the loop

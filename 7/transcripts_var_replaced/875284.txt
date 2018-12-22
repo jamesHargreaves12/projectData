@@ -1,2 +1,2 @@
-VARIABLE equal true for VARIABLE equal to NUMBER VARIABLE smaller than VARIABLE divided by NUMBER VARIABLE plus plus open parentheses VARIABLE and equal FUNCTION VARIABLE VARIABLE different than NUMBER close parenthesis return VARIABLE 
+VARIABLE equal true for VARIABLE equal to NUMBER VARIABLE smaller than VARIABLE divided by NUMBER VARIABLE plus plus open parentheses VARIABLE and equal FUNCTION_CALL VARIABLE VARIABLE different than NUMBER close parenthesis return VARIABLE 
 
