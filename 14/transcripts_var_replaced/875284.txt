@@ -1,2 +1,2 @@
- if FUNCTION VARIABLE is equal to 1 return VARIABLE else FUNCTION VARIABLE from index 0 to FUNCTION VARIABLE divided by 2  
+ if FUNCTION VARIABLE is equal to NUMBER return VARIABLE else FUNCTION VARIABLE from index NUMBER to FUNCTION VARIABLE divided by NUMBER  
 

@@ -1,1 +1,1 @@
-set VARIABLE to be equal to 0 while VARIABLE FUNCTION VARIABLE is FUNCTION of VARIABLE if VARIABLE is larger than VARIABLE then set VARIABLE to be equal to the VARIABLE end loop then return VARIABLE
+set VARIABLE to be equal to NUMBER while VARIABLE FUNCTION VARIABLE is FUNCTION of VARIABLE if VARIABLE is larger than VARIABLE then set VARIABLE to be equal to the VARIABLE end loop then return VARIABLE

@@ -1,2 +1,2 @@
- for integer VARIABLE equals 0 VARIABLE smaller than FUNCTION VARIABLE VARIABLE plus plus open parentheses for integer VARIABLE equals 0 VARIABLE smaller than FUNCTION VARIABLE VARIABLE plus plus if VARIABLE index VARIABLE is smaller than VARIABLE index VARIABLE plus 1 then do nothing else FUNCTION VARIABLE index VARIABLE VARIABLE index VARIABLE plus 1 
+ for integer VARIABLE equals NUMBER VARIABLE smaller than FUNCTION VARIABLE VARIABLE plus plus open parentheses for integer VARIABLE equals NUMBER VARIABLE smaller than FUNCTION VARIABLE VARIABLE plus plus if VARIABLE index VARIABLE is smaller than VARIABLE index VARIABLE plus NUMBER then do nothing else FUNCTION VARIABLE index VARIABLE VARIABLE index VARIABLE plus NUMBER 
 

@@ -1,2 +1,2 @@
- the variable VARIABLE equal the FUNCTION of VARIABLE and let VARIABLE equals 0 while VARIABLE is less than VARIABLE VARIABLE position VARIABLE is equal to VARIABLE position VARIABLE multiplied by VARIABLE  
+ the variable VARIABLE equal the FUNCTION of VARIABLE and let VARIABLE equals NUMBER while VARIABLE is less than VARIABLE VARIABLE position VARIABLE is equal to VARIABLE position VARIABLE multiplied by VARIABLE  
 

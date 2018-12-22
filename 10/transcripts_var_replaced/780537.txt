@@ -1,2 +1,2 @@
- create a variable called VARIABLE set equal to 0 and for all VARIABLE between 1 and VARIABLE add VARIABLE and VARIABLE and store that result in VARIABLE end the loop return VARIABLE  
+ create a variable called VARIABLE set equal to NUMBER and for all VARIABLE between NUMBER and VARIABLE add VARIABLE and VARIABLE and store that result in VARIABLE end the loop return VARIABLE  
 

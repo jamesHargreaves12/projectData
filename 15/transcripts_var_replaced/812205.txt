@@ -1,2 +1,2 @@
- for VARIABLE in the FUNCTION 0 to the FUNCTION of VARIABLE minus 1 inclusive set the value at index VARIABLE in VARIABLE to the value at index VARIABLE in VARIABLE multiplied by VARIABLE return VARIABLE  
+ for VARIABLE in the FUNCTION NUMBER to the FUNCTION of VARIABLE minus NUMBER inclusive set the value at index VARIABLE in VARIABLE to the value at index VARIABLE in VARIABLE multiplied by VARIABLE return VARIABLE  
 

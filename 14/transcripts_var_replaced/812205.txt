@@ -1,2 +1,2 @@
- if the FUNCTION of VARIABLE is 0 or 1 return VARIABLE else divide VARIABLE into 2 equal FUNCTION halves recursively sort FUNCTION half using the FUNCTION source algorithm FUNCTION the 2 sorted halves and return this merged list  
+ if the FUNCTION of VARIABLE is NUMBER or NUMBER return VARIABLE else divide VARIABLE into NUMBER equal FUNCTION halves recursively sort FUNCTION half using the FUNCTION source algorithm FUNCTION the NUMBER sorted halves and return this merged list  
 

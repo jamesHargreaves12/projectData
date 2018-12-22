@@ -1,1 +1,1 @@
-multiply VARIABLE by 1.2 and store this in a variable named VARIABLE next return VARIABLE multiplied by 1.1 
+multiply VARIABLE by NUMBER and store this in a variable named VARIABLE next return VARIABLE multiplied by NUMBER 

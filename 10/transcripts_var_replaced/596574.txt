@@ -1,1 +1,1 @@
-return VARIABLE times VARIABLE plus 1 over 2
+return VARIABLE times VARIABLE plus NUMBER over NUMBER

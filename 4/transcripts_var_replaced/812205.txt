@@ -1,1 +1,1 @@
-initialize VARIABLE to 0 for each VARIABLE in the VARIABLE increment VARIABLE by the value obtained from looking up VARIABLE in VARIABLE cost map return VARIABLE
+initialize VARIABLE to NUMBER for each VARIABLE in the VARIABLE increment VARIABLE by the value obtained from looking up VARIABLE in VARIABLE cost map return VARIABLE

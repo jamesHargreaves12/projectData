@@ -1,2 +1,2 @@
- let's VARIABLE equal 0 for item VARIABLE in VARIABLE add VARIABLE of VARIABLE to VARIABLE end for return the VARIABLE  
+ let's VARIABLE equal NUMBER for item VARIABLE in VARIABLE add VARIABLE of VARIABLE to VARIABLE end for return the VARIABLE  
 

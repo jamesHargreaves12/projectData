@@ -1,2 +1,2 @@
- for VARIABLE in the FUNCTION 0 to the FUNCTION of VARIABLE integer divided by 2 if the character at VARIABLE in VARIABLE is not equal to the character at VARIABLE FUNCTION of the VARIABLE minus 1 minus VARIABLE return false end for loop return true  
+ for VARIABLE in the FUNCTION NUMBER to the FUNCTION of VARIABLE integer divided by NUMBER if the character at VARIABLE in VARIABLE is not equal to the character at VARIABLE FUNCTION of the VARIABLE minus NUMBER minus VARIABLE return false end for loop return true  
 

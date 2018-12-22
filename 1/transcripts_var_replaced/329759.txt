@@ -1,1 +1,1 @@
-VARIABLE equals VARIABLE multiplied by 1.2 then VARIABLE equals VARIABLE multiplied by 1.1 then return VARIABLE
+VARIABLE equals VARIABLE multiplied by NUMBER then VARIABLE equals VARIABLE multiplied by NUMBER then return VARIABLE
