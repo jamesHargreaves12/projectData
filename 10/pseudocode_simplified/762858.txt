@@ -1,1 +1,1 @@
-return VARIABLE * ( VARIABLE + 1 ) / 2  
+return VARIABLE * ( VARIABLE + NUMBER ) / NUMBER  

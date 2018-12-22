@@ -1,1 +1,1 @@
-if VARIABLE == 0 return 1   else return FUNCTION_CALL VARIABLE - 1  * VARIABLE    
+if VARIABLE == NUMBER return NUMBER   else return FUNCTION_CALL VARIABLE - NUMBER  * VARIABLE    
