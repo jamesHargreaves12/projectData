@@ -1,3 +1,2 @@
-
 initialize a variable annual rainfall as 0 for each item in the list months rainfall add that value to the annual rainfall value do that for each of the 12 items in the list and return the annual rainfall
 

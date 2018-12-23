@@ -1,2 +1,2 @@
- integer temp equals number list square bracket i close square bracket number list square bracket i close swear bracket equals number list square bracket j close square bracket number list square bracket j close square bracket equals temp return number list  
+ integer temp equals number list square bracket i close square bracket number list square bracket i close square bracket equals number list square bracket j close square bracket number list square bracket j close square bracket equals temp return number list  
 

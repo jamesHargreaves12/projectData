@@ -1,2 +1,1 @@
-set a variable temp to the value in number list at in this i set the value number list at index i to the value in number list at index j set the value in number list at index j to temp return number list 
-
+for VARIABLE equals NUMBER to VARIABLE dot FUNCTION_CALL minus NUMBER for VARIABLE equals NUMBER to VARIABLE dot FUNCTION_CALL minus NUMBER if VARIABLE open square bracket VARIABLE close square bracket greater than VARIABLE open square bracket VARIABLE plus NUMBER close square bracket then FUNCTION_CALL VARIABLE j plus NUMBER VARIABLE end if end for end for return VARIABLE

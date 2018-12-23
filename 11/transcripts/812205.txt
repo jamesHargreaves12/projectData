@@ -1,2 +1,2 @@
- for index in the range 0 to the length of input string integer divided by 2 if the character at index in input string is not equal to the character at index length of the input string minus 1 minus index return false end for loop return true  
+ for i in the range 0 to the length of input string integer divided by 2 if the character at i in input string is not equal to the character at i length of the input string minus 1 minus i return false end for loop return true  
 

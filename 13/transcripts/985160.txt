@@ -1,2 +1,1 @@
- set a variable temp to the value in number list at in this i set the value number list at index i to the value in number list at index j set the value in number list at index j to temp return number list  
-
+for i equals 0 to input list dot length minus 1 for j equals 0 to input list dot length minus 1 if input list open square bracket j close square bracket greater than input list open square bracket j plus 1 close square bracket then swap j j plus 1 input list end if end for end for return input list

@@ -1,2 +1,2 @@
- define a variable named result in set this equal to the empty list and then for each element of number list if that element is greater than the threshold then cons the element on to the front of result  end if end the loop and return result  
+ define a variable named result and set this equal to the empty list and then for each element of number list if that element is greater than the threshold then cons the element on to the front of result  end if end the loop and return result  
 
