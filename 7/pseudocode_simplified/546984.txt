@@ -1,1 +1,1 @@
-if VARIABLE == NUMBER return false   else if VARIABLE == NUMBER return true   else for VARIABLE = NUMBER VARIABLE < FUNCTION_CALL VARIABLE  VARIABLE += NUMBER if FUNCTION_CALL VARIABLE VARIABLE  == NUMBER return false     return true    
+if VARIABLE == NUMBER return false   else if VARIABLE == NUMBER return true   else for VARIABLE = NUMBER VARIABLE < FUNCTION_CALL VARIABLE  VARIABLE + = NUMBER if FUNCTION_CALL VARIABLE VARIABLE  == NUMBER return false     return true    
