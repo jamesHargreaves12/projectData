@@ -1,1 +1,1 @@
-set VARIABLE to equal NUMBER for VARIABLE in the FUNCTION_CALL NUMBER to VARIABLE inclusive VARIABLE plus equals VARIABLE end the for loop and return VARIABLE 
+set VARIABLE_0 to equal NUMBER for VARIABLE_1 in the FUNCTION_CALL_4 NUMBER to VARIABLE_2 inclusive VARIABLE_0 plus equals VARIABLE_1 end the for loop and return VARIABLE_0 

@@ -1,1 +1,1 @@
-initialize a variable VARIABLE as NUMBER for each VARIABLE in the list VARIABLE add that value to the VARIABLE value do that for each of the NUMBER items in the list and return the VARIABLE 
+initialize a variable VARIABLE_0 as NUMBER for each VARIABLE_2 in the list VARIABLE_1 add that value to the VARIABLE_0 value do that for each of the NUMBER items in the list and return the VARIABLE_0 

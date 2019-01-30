@@ -1,2 +1,2 @@
-let a new variable VARIABLE equal to VARIABLE position VARIABLE let VARIABLE position VARIABLE equal to VARIABLE position VARIABLE and let VARIABLE position VARIABLE equal to VARIABLE 
+let a new variable VARIABLE_1 equal to VARIABLE_0 position VARIABLE_2 let VARIABLE_0 position VARIABLE_2 equal to VARIABLE_0 position VARIABLE_3 and let VARIABLE_0 position VARIABLE_3 equal to VARIABLE_1 
 

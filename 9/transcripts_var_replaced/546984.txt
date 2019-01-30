@@ -1,2 +1,2 @@
-if VARIABLE equals NUMBER then return NUMBER otherwise return VARIABLE times FUNCTION_CALL of VARIABLE minus NUMBER end if 
+if VARIABLE_0 equals NUMBER then return NUMBER otherwise return VARIABLE_0 times FUNCTION_CALL_2 of VARIABLE_0 minus NUMBER end if 
 

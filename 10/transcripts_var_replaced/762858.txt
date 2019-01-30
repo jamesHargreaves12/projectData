@@ -1,2 +1,2 @@
-return and VARIABLE multiplied by VARIABLE plus NUMBER divided by NUMBER 
+return and VARIABLE_0 multiplied by VARIABLE_0 plus NUMBER divided by NUMBER 
 

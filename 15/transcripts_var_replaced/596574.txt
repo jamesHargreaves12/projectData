@@ -1,2 +1,2 @@
-for VARIABLE in the FUNCTION_CALL NUMBER to the FUNCTION_CALL of the VARIABLE minus NUMBER inclusive VARIABLE index VARIABLE is set to VARIABLE index VARIABLE times the VARIABLE end the for loop return the VARIABLE 
+for VARIABLE_2 in the FUNCTION_CALL_4 NUMBER to the FUNCTION_CALL_5 of the VARIABLE_0 minus NUMBER inclusive VARIABLE_0 index VARIABLE_2 is set to VARIABLE_0 index VARIABLE_2 times the VARIABLE_1 end the for loop return the VARIABLE_0 
 

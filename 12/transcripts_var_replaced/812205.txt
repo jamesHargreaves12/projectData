@@ -1,2 +1,2 @@
-set a variable VARIABLE to the value in VARIABLE at index VARIABLE set the value VARIABLE at index VARIABLE to the value in VARIABLE at index VARIABLE set the value in VARIABLE at index VARIABLE to VARIABLE return VARIABLE 
+set a variable VARIABLE_1 to the value in VARIABLE_0 at index VARIABLE_2 set the value VARIABLE_0 at index VARIABLE_2 to the value in VARIABLE_0 at index VARIABLE_3 set the value in VARIABLE_0 at index VARIABLE_3 to VARIABLE_1 return VARIABLE_0 
 

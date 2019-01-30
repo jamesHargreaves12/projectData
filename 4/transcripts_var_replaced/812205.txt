@@ -1,1 +1,1 @@
-initialize VARIABLE to NUMBER for each VARIABLE in the VARIABLE increment VARIABLE by the value obtained from looking up VARIABLE in VARIABLE return VARIABLE
+initialize VARIABLE_2 to NUMBER for each VARIABLE_3 in the VARIABLE_0 increment VARIABLE_2 by the value obtained from looking up VARIABLE_3 in VARIABLE_1 return VARIABLE_2

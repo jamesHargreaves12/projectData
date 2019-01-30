@@ -1,2 +1,2 @@
-let variable VARIABLE equal NUMBER while VARIABLE is bigger than NUMBER add VARIABLE to the VARIABLE then subtract NUMBER from VARIABLE end while return VARIABLE 
+let variable VARIABLE_0 equal NUMBER while VARIABLE_1 is bigger than NUMBER add VARIABLE_1 to the VARIABLE_0 then subtract NUMBER from VARIABLE_1 end while return VARIABLE_0 
 

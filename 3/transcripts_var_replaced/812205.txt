@@ -1,1 +1,1 @@
-initialize VARIABLE to NUMBER for VARIABLE in the FUNCTION_CALL NUMBER to NUMBER inclusive increment VARIABLE by the value at index VARIABLE in the VARIABLE return VARIABLE
+initialize VARIABLE_1 to NUMBER for VARIABLE_2 in the FUNCTION_CALL_4 NUMBER to NUMBER inclusive increment VARIABLE_1 by the value at index VARIABLE_2 in the VARIABLE_0 return VARIABLE_1

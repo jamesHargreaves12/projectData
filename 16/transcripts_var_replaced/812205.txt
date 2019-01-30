@@ -1,2 +1,2 @@
-initialize a new empty list VARIABLE for each integer VARIABLE in VARIABLE if VARIABLE is greater than VARIABLE FUNCTION_CALL VARIABLE to VARIABLE end for loop return VARIABLE 
+initialize a new empty list VARIABLE_0 for each integer VARIABLE_3 in VARIABLE_1 if VARIABLE_3 is greater than VARIABLE_2 FUNCTION_CALL_5 VARIABLE_3 to VARIABLE_0 end for loop return VARIABLE_0 
 

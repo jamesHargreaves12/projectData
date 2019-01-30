@@ -1,2 +1,2 @@
-define VARIABLE to be equal to the VARIABLE of the VARIABLE for each VARIABLE between NUMBER and VARIABLE if the VARIABLE at index VARIABLE is not equal to the VARIABLE at index at VARIABLE minus VARIABLE then return false end if end loop and next return true 
+define VARIABLE_1 to be equal to the VARIABLE_1 of the VARIABLE_0 for each VARIABLE_2 between NUMBER and VARIABLE_1 if the VARIABLE_0 at index VARIABLE_2 is not equal to the VARIABLE_0 at index at VARIABLE_1 minus VARIABLE_2 then return false end if end loop and next return true 
 

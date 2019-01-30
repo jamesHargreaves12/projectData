@@ -1,2 +1,2 @@
-set VARIABLE is equal NUMBER for VARIABLE in the FUNCTION_CALL NUMBER to VARIABLE inclusive VARIABLE equals VARIABLE times VARIABLE end for and return VARIABLE 
+set VARIABLE_0 is equal NUMBER for VARIABLE_1 in the FUNCTION_CALL_4 NUMBER to VARIABLE_2 inclusive VARIABLE_0 equals VARIABLE_1 times VARIABLE_0 end for and return VARIABLE_0 
 

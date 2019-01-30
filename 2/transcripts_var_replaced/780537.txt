@@ -1,1 +1,1 @@
-set VARIABLE to be equal to NUMBER while VARIABLE FUNCTION_CALL VARIABLE is FUNCTION_CALL of VARIABLE if VARIABLE is larger than VARIABLE then set VARIABLE to be equal to the VARIABLE end loop then return VARIABLE
+set VARIABLE_1 to be equal to NUMBER while VARIABLE_2 FUNCTION_CALL_4 VARIABLE_0 is FUNCTION_CALL_5 of VARIABLE_2 if VARIABLE_0 is larger than VARIABLE_1 then set VARIABLE_1 to be equal to the VARIABLE_0 end loop then return VARIABLE_1

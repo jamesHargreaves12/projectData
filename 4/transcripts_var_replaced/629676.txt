@@ -1,1 +1,1 @@
-set VARIABLE to NUMBER
+set VARIABLE_0 to NUMBER

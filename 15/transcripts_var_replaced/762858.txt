@@ -1,2 +1,2 @@
-the variable VARIABLE equal the FUNCTION_CALL of VARIABLE and let VARIABLE equals NUMBER while VARIABLE is less than VARIABLE VARIABLE position VARIABLE is equal to VARIABLE position VARIABLE multiplied by VARIABLE 
+the variable VARIABLE_2 equal the FUNCTION_CALL_5 of VARIABLE_0 and let VARIABLE_3 equals NUMBER while VARIABLE_3 is less than VARIABLE_2 VARIABLE_0 position VARIABLE_3 is equal to VARIABLE_0 position VARIABLE_3 multiplied by VARIABLE_1 
 

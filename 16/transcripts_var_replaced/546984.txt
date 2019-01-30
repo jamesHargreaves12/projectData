@@ -1,2 +1,2 @@
-let VARIABLE be an empty list for each item VARIABLE in VARIABLE if VARIABLE is bigger than VARIABLE FUNCTION_CALL VARIABLE to VARIABLE end if end for return VARIABLE 
+let VARIABLE_1 be an empty list for each item VARIABLE_3 in VARIABLE_0 if VARIABLE_3 is bigger than VARIABLE_2 FUNCTION_CALL_5 VARIABLE_3 to VARIABLE_1 end if end for return VARIABLE_1 
 

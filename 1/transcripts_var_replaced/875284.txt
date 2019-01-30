@@ -1,1 +1,1 @@
-so VARIABLE plus equals VARIABLE times by VARIABLE divided by NUMBER and then VARIABLE plus equals VARIABLE times by NUMBER divided by NUMBER return VARIABLE
+so VARIABLE_0 plus equals VARIABLE_0 times by VARIABLE_1 divided by NUMBER and then VARIABLE_0 plus equals VARIABLE_0 times by NUMBER divided by NUMBER return VARIABLE_0

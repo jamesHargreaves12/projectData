@@ -1,2 +1,2 @@
-if VARIABLE is equal to NUMBER return NUMBER otherwise recursively calculate the FUNCTION_CALL of VARIABLE minus NUMBER multiply this by VARIABLE and then return that 
+if VARIABLE_0 is equal to NUMBER return NUMBER otherwise recursively calculate the FUNCTION_CALL_2 of VARIABLE_0 minus NUMBER multiply this by VARIABLE_0 and then return that 
 

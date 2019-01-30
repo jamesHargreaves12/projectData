@@ -1,2 +1,2 @@
-for integer VARIABLE equals NUMBER to open brackets VARIABLE dot FUNCTION_CALL minus NUMBER close brackets over NUMBER if VARIABLE square bracket VARIABLE close square bracket not equal to VARIABLE open bracket VARIABLE dot FUNCTION_CALL minus VARIABLE close bracket return false end if end for return true 
+for integer VARIABLE_1 equals NUMBER to open brackets VARIABLE_0 dot FUNCTION_CALL_3 minus NUMBER close brackets over NUMBER if VARIABLE_0 square bracket VARIABLE_1 close square bracket not equal to VARIABLE_0 open bracket VARIABLE_0 dot FUNCTION_CALL_3 minus VARIABLE_1 close bracket return false end if end for return true 
 

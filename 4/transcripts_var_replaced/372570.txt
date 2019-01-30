@@ -1,1 +1,1 @@
-VARIABLE equals NUMBER for each VARIABLE in the VARIABLE the VARIABLE is equal to the VARIABLE plus the value of the VARIABLE at the key VARIABLE then end the for loop and return the VARIABLE
+VARIABLE_2 equals NUMBER for each VARIABLE_3 in the VARIABLE_0 the VARIABLE_2 is equal to the VARIABLE_2 plus the value of the VARIABLE_1 at the key VARIABLE_3 then end the for loop and return the VARIABLE_2

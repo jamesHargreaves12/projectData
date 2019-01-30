@@ -1,1 +1,1 @@
-create a variable named VARIABLE set equal to NUMBER next for all VARIABLE in VARIABLE look up VARIABLE in VARIABLE and store this in a variable named VARIABLE add VARIABLE and VARIABLE together and store that in VARIABLE end the loop
+create a variable named VARIABLE_2 set equal to NUMBER next for all VARIABLE_4 in VARIABLE_0 look up VARIABLE_4 in VARIABLE_1 and store this in a variable named VARIABLE_3 add VARIABLE_2 and VARIABLE_3 together and store that in VARIABLE_2 end the loop

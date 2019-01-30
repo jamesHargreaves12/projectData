@@ -1,2 +1,2 @@
-let VARIABLE equal the VARIABLE index VARIABLE let the VARIABLE index VARIABLE equal to the VARIABLE index VARIABLE let the VARIABLE index VARIABLE equal to VARIABLE return the VARIABLE 
+let VARIABLE_1 equal the VARIABLE_0 index VARIABLE_2 let the VARIABLE_0 index VARIABLE_2 equal to the VARIABLE_0 index VARIABLE_3 let the VARIABLE_0 index VARIABLE_3 equal to VARIABLE_1 return the VARIABLE_0 
 

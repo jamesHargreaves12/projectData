@@ -1,2 +1,2 @@
-for VARIABLE in the FUNCTION_CALL NUMBER to FUNCTION_CALL of VARIABLE inclusive if remaineder VARIABLE VARIABLE is NUMBER then return false end for loop return true 
+for VARIABLE_0 in the FUNCTION_CALL_3 NUMBER to FUNCTION_CALL_4 of VARIABLE_1 inclusive if remaineder VARIABLE_0 VARIABLE_1 is NUMBER then return false end for loop return true 
 

@@ -1,1 +1,1 @@
-return VARIABLE times NUMBER times NUMBER
+return VARIABLE_0 times NUMBER times NUMBER

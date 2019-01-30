@@ -1,2 +1,2 @@
-define a variable called VARIABLE and set that equal to the empty list next for each VARIABLE in VARIABLE multiply VARIABLE by VARIABLE and FUNCTION_CALL this on to the variable VARIABLE end the loop and return VARIABLE 
+define a variable called VARIABLE_2 and set that equal to the empty list next for each VARIABLE_3 in VARIABLE_0 multiply VARIABLE_3 by VARIABLE_1 and FUNCTION_CALL_5 this on to the variable VARIABLE_2 end the loop and return VARIABLE_2 
 

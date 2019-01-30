@@ -1,1 +1,1 @@
-so set the VARIABLE to NUMBER then for each VARIABLE in VARIABLE VARIABLE is equal to VARIABLE plus VARIABLE end the for loop and the return VARIABLE
+so set the VARIABLE_2 to NUMBER then for each VARIABLE_3 in VARIABLE_0 VARIABLE_2 is equal to VARIABLE_2 plus VARIABLE_3 end the for loop and the return VARIABLE_2

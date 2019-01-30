@@ -1,2 +1,2 @@
-let VARIABLE be an empty list for each VARIABLE in VARIABLE if the VARIABLE is greater than the VARIABLE FUNCTION_CALL VARIABLE to VARIABLE end if end the for loop and return VARIABLE 
+let VARIABLE_2 be an empty list for each VARIABLE_3 in VARIABLE_0 if the VARIABLE_3 is greater than the VARIABLE_1 FUNCTION_CALL_5 VARIABLE_3 to VARIABLE_2 end if end the for loop and return VARIABLE_2 
 

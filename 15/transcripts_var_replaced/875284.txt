@@ -1,2 +1,2 @@
-for integer VARIABLE equal to NUMBER VARIABLE smaller than FUNCTION_CALL VARIABLE VARIABLE plus plus VARIABLE index VARIABLE equals VARIABLE index VARIABLE times by VARIABLE close parentheses return VARIABLE 
+for integer VARIABLE_2 equal to NUMBER VARIABLE_2 smaller than FUNCTION_CALL_4 VARIABLE_0 VARIABLE_2 plus plus VARIABLE_0 index VARIABLE_2 equals VARIABLE_0 index VARIABLE_2 times by VARIABLE_1 close parentheses return VARIABLE_0 
 

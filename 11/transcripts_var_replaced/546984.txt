@@ -1,2 +1,2 @@
-variable VARIABLE equal the FUNCTION_CALL of the VARIABLE for VARIABLE equals NUMBER up to VARIABLE integer div NUMBER incrementing VARIABLE each time do the following let variable VARIABLE equal VARIABLE index VARIABLE let VARIABLE equal VARIABLE at index VARIABLE minus VARIABLE if VARIABLE does not equal VARIABLE return false end if end for return true 
+variable VARIABLE_3 equal the FUNCTION_CALL_6 of the VARIABLE_1 for VARIABLE_4 equals NUMBER up to VARIABLE_3 integer div NUMBER incrementing VARIABLE_4 each time do the following let variable VARIABLE_2 equal VARIABLE_1 index VARIABLE_4 let VARIABLE_0 equal VARIABLE_1 at index VARIABLE_3 minus VARIABLE_4 if VARIABLE_2 does not equal VARIABLE_0 return false end if end for return true 
 

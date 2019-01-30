@@ -1,2 +1,2 @@
-VARIABLE equals the FUNCTION_CALL of the VARIABLE for VARIABLE in FUNCTION_CALL NUMBER to VARIABLE over NUMBER inclusive if character at index VARIABLE in VARIABLE does not equal character at index VARIABLE minus NUMBER minus VARIABLE of VARIABLE then return false end the for loop then return true 
+VARIABLE_1 equals the FUNCTION_CALL_4 of the VARIABLE_0 for VARIABLE_2 in FUNCTION_CALL_5 NUMBER to VARIABLE_1 over NUMBER inclusive if character at index VARIABLE_2 in VARIABLE_0 does not equal character at index VARIABLE_1 minus NUMBER minus VARIABLE_2 of VARIABLE_0 then return false end the for loop then return true 
 

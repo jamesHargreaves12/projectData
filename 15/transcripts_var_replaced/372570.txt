@@ -1,2 +1,2 @@
-create a VARIABLE which is empty and for each VARIABLE in the VARIABLE multiply the VARIABLE by the VARIABLE and FUNCTION_CALL it to this VARIABLE end the for loop and return this VARIABLE 
+create a VARIABLE_2 which is empty and for each VARIABLE_3 in the VARIABLE_0 multiply the VARIABLE_3 by the VARIABLE_1 and FUNCTION_CALL_5 it to this VARIABLE_2 end the for loop and return this VARIABLE_2 
 

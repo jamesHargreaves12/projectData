@@ -1,2 +1,2 @@
-initialize an empty list called VARIABLE for each VARIABLE in VARIABLE if VARIABLE is greater than VARIABLE FUNCTION_CALL VARIABLE to VARIABLE 
+initialize an empty list called VARIABLE_2 for each VARIABLE_3 in VARIABLE_0 if VARIABLE_3 is greater than VARIABLE_1 FUNCTION_CALL_5 VARIABLE_3 to VARIABLE_2 
 

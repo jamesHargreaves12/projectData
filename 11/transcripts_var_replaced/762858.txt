@@ -1,2 +1,2 @@
-VARIABLE equal true for VARIABLE equal NUMBER VARIABLE smaller than FUNCTION_CALL VARIABLE divided by NUMBER VARIABLE plus plus open parentheses if VARIABLE index VARIABLE is different than VARIABLE index FUNCTION_CALL VARIABLE minus VARIABLE then VARIABLE equal false VARIABLE close parentheses return VARIABLE 
+VARIABLE_1 equal true for VARIABLE_3 equal NUMBER VARIABLE_3 smaller than FUNCTION_CALL_5 VARIABLE_0 divided by NUMBER VARIABLE_3 plus plus open parentheses if VARIABLE_0 index VARIABLE_3 is different than VARIABLE_0 index FUNCTION_CALL_5 VARIABLE_0 minus VARIABLE_3 then VARIABLE_1 equal false VARIABLE_2 close parentheses return VARIABLE_1 
 

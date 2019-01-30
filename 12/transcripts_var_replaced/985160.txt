@@ -1,2 +1,2 @@
-integer VARIABLE equals VARIABLE square bracket VARIABLE close square bracket VARIABLE square bracket VARIABLE close square bracket equals VARIABLE square bracket VARIABLE close square bracket VARIABLE square bracket VARIABLE close square bracket equals VARIABLE return VARIABLE 
+integer VARIABLE_1 equals VARIABLE_0 square bracket VARIABLE_2 close square bracket VARIABLE_0 square bracket VARIABLE_2 close square bracket equals VARIABLE_0 square bracket VARIABLE_3 close square bracket VARIABLE_0 square bracket VARIABLE_3 close square bracket equals VARIABLE_1 return VARIABLE_0 
 
