@@ -3,5 +3,5 @@ while list.non_empty(){
 	if first_item(list) > highest{
 		highest = first_item(list);
 	}
-	remove_first_item(list);
+	remove_the_first_item(list);
 }
