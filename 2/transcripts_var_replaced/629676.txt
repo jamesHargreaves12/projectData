@@ -1,1 +1,1 @@
-set VARIABLE_0 to NUMBER while VARIABLE_1 not empty start loop block if FUNCTION_CALL_4 of VARIABLE_1 greater than VARIABLE_0 start a new block and set VARIABLE_0 to the FUNCTION_CALL_4 on the VARIABLE_1 end that block removed the FUNCTION_CALL_4 from the VARIABLE_1 end the loop block
+set VARIABLE_0 to NUMBER while VARIABLE_1 not empty start loop block if FUNCTION_CALL_4 of VARIABLE_1 greater than VARIABLE_0 start a new block and set VARIABLE_0 to the FUNCTION_CALL_4 on the VARIABLE_1 end that block remove the FUNCTION_CALL_4 from the VARIABLE_1 end the loop block
