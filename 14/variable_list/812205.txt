@@ -6,3 +6,4 @@ length
 merge
 each
 split in half
+*********

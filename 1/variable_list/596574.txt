@@ -2,3 +2,4 @@ meal price
 tax
 tip
 *********
+*********

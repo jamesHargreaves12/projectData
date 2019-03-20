@@ -376,14 +376,13 @@ gr-list: 1
 (|dobj| |equal+s:1_VVZ| |number:2_NN1|)
 
 
-(|return:0_VV0| |function_call_3:1_NP1| |variable_0:2_NP1| |use+ing:3_VVG| |the:4_AT| |plus:5_NN1| |function:6_NN1|) 1 ; (-13.580)
+(|return:0_VV0| |function_call_3:1_NP1| |variable_0:2_NP1| |use+ing:3_VVG| |the:4_AT| |variable_1:5_NP1|) 1 ; (-13.580)
 gr-list: 1
 (|ncsubj| |use+ing:3_VVG| |variable_0:2_NP1| _)
 (|xcomp| _ |return:0_VV0| |use+ing:3_VVG|)
 (|dobj| |return:0_VV0| |variable_0:2_NP1|)
-(|dobj| |use+ing:3_VVG| |function:6_NN1|)
-(|det| |function:6_NN1| |the:4_AT|)
-(|ncmod| _ |function:6_NN1| |plus:5_NN1|)
+(|dobj| |use+ing:3_VVG| |variable_1:5_NP1|)
+(|det| |variable_1:5_NP1| |the:4_AT|)
 (|ncmod| _ |variable_0:2_NP1| |function_call_3:1_NP1|)
 
 
@@ -692,7 +691,7 @@ gr-list: 1
 (|dobj| |between:3_II| |number:4_NN1|)
 
 
-(|for:0_IF| |integer:1_NN1| |variable_0:2_NP1| |equal+s:3_VVZ| |number:4_NN1| |variable_0:5_NP1| |smaller:6_JJR| |than:7_CSN| |number:8_NN1| |variable_0:9_NP1| |plus:10_NN1| |plus:11_CC| |open:12_JJ| |parenthesis+s:13_NN2| |function_call_2:14_NP1| |variable_0:15_NP1| |backslash:16_NN1| |n:17_ZZ1| |close:18_JJ| |parenthesis+s:19_NN2|) 1 ; (-52.039)
+(|for:0_IF| |integer:1_NN1| |variable_0:2_NP1| |equal+s:3_VVZ| |number:4_NN1| |variable_0:5_NP1| |smaller:6_JJR| |than:7_CSN| |number:8_NN1| |variable_0:9_NP1| |plus:10_NN1| |plus:11_CC| |open:12_JJ| |parenthesis+s:13_NN2| |function_call_2:14_NP1| |variable_0:15_NP1| |str:16_NN1| |close:17_JJ| |parenthesis+s:18_NN2|) 1 ; (-52.039)
 gr-list: 1
 (|ncmod| _ |equal+s:3_VVZ| |for:0_IF|)
 (|ncsubj| |equal+s:3_VVZ| |variable_0:2_NP1| _)
@@ -702,14 +701,13 @@ gr-list: 1
 (|ncmod| _ |smaller:6_JJR| |than:7_CSN|)
 (|dobj| |than:7_CSN| |plus:11_CC|)
 (|conj| |plus:11_CC| |plus:10_NN1|)
-(|conj| |plus:11_CC| |parenthesis+s:19_NN2|)
-(|ncmod| _ |parenthesis+s:19_NN2| |open:12_JJ|)
-(|ncmod| _ |parenthesis+s:19_NN2| |parenthesis+s:13_NN2|)
-(|ncmod| _ |parenthesis+s:19_NN2| |function_call_2:14_NP1|)
-(|ncmod| _ |parenthesis+s:19_NN2| |variable_0:15_NP1|)
-(|ncmod| _ |parenthesis+s:19_NN2| |backslash:16_NN1|)
-(|ncmod| _ |parenthesis+s:19_NN2| |n:17_ZZ1|)
-(|ncmod| _ |parenthesis+s:19_NN2| |close:18_JJ|)
+(|conj| |plus:11_CC| |parenthesis+s:18_NN2|)
+(|ncmod| _ |parenthesis+s:18_NN2| |open:12_JJ|)
+(|ncmod| _ |parenthesis+s:18_NN2| |parenthesis+s:13_NN2|)
+(|ncmod| _ |parenthesis+s:18_NN2| |function_call_2:14_NP1|)
+(|ncmod| _ |parenthesis+s:18_NN2| |variable_0:15_NP1|)
+(|ncmod| _ |parenthesis+s:18_NN2| |str:16_NN1|)
+(|ncmod| _ |parenthesis+s:18_NN2| |close:17_JJ|)
 (|ncmod| _ |plus:10_NN1| |number:8_NN1|)
 (|ncmod| _ |plus:10_NN1| |variable_0:9_NP1|)
 (|ncmod| _ |variable_0:5_NP1| |number:4_NN1|)

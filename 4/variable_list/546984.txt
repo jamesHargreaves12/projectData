@@ -3,3 +3,4 @@ item cost map
 accumulator
 x
 *********
+*********

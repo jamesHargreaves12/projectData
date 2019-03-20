@@ -3,3 +3,7 @@ i
 range
 mod
 print
+*********
+fizz buzz
+fizz
+buzz

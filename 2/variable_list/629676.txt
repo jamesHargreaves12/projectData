@@ -4,3 +4,4 @@ list
 non empty
 first item
 remove the first item
+*********
