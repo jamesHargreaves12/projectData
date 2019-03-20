@@ -1,1 +1,1 @@
-return reduce(month_rainfall, add);
+return reduce(month_rainfall, plus_function);

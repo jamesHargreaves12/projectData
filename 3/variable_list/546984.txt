@@ -1,4 +1,4 @@
 month rainfall
-add
+plus function
 *********
 reduce
