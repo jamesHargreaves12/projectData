@@ -2,5 +2,7 @@ if length(input_list) == 0 or length(input_list) == 1{
 	return input_list;
 }
 else{
-	return merge(each(split_in_half(linput_list),recurse));
+	sorted_halves = each(split_in_half(linput_list),recurse());
+	merged_list = merge(sorted_halves);
+	return merged_lists;
 }

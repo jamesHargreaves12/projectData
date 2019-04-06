@@ -1,2 +1,2 @@
-if the FUNCTION_CALL_4 of VARIABLE_1 is NUMBER or NUMBER return VARIABLE_1 else divide VARIABLE_1 into NUMBER equal FUNCTION_CALL_4 halves recursively sort FUNCTION_CALL_6 half using the FUNCTION_CALL_5 source algorithm FUNCTION_CALL_5 the NUMBER sorted halves and return this merged list 
+if the FUNCTION_CALL_6 of VARIABLE_4 is NUMBER or NUMBER return VARIABLE_4 else divide VARIABLE_4 into NUMBER equal FUNCTION_CALL_6 halves recursively sort FUNCTION_CALL_7 half using the FUNCTION_CALL_10 source algorithm FUNCTION_CALL_10 the NUMBER VARIABLE_0 and return this VARIABLE_3 
 

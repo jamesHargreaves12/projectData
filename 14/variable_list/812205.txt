@@ -1,9 +1,12 @@
+sorted halves
+merged lists
 linput list
+merged list
 input list
-recurse
 *********
 length
-merge
 each
 split in half
+recurse
+merge
 *********
