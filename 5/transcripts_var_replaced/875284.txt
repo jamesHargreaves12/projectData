@@ -1,1 +1,1 @@
-for integer VARIABLE_0 equals NUMBER VARIABLE_0 smaller than NUMBER VARIABLE_0 plus plus open parentheses FUNCTION_CALL_2 VARIABLE_0 STR close parentheses
+for integer VARIABLE_0 equals NUMBER VARIABLE_0 smaller than NUMBER VARIABLE_0 plus plus open parentheses FUNCTION_CALL_2 VARIABLE_0 STRING_CONST close parentheses
